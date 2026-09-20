@@ -1,0 +1,14 @@
+{
+  "source_id": "DATA-TANZIL",
+  "url": "https://tanzil.net/pub/download/index.php?quranType=uthmani&outType=xml&marks=true&sajdah=true&tatweel=true&agree=true",
+  "downloaded_at_utc": "2026-09-16T14:59:48.608532+00:00",
+  "version": "1.1 (publisher download page)",
+  "representation": "uthmani XML with pause marks, sajdah, tatweel",
+  "reading": "Hafs, per Tanzil FAQ",
+  "file": "data/raw/tanzil-uthmani-1.1.xml",
+  "sha256": "8c5aeae20363a98f6963720d29fce040ca8b56a8e75f8b564c257fce7f6d0417",
+  "bytes": 1541387,
+  "license_url": "https://tanzil.net/docs/Text_License",
+  "provenance_url": "https://tanzil.net/docs/FAQ",
+  "raw_policy": "Preserve downloaded file byte-for-byte. Calculations only on in-memory views; do not publish an altered Quran text."
+}

@@ -1,0 +1,27 @@
+{
+  "status": "descriptive inventory; no inferential test or comparison corpus",
+  "source_sha256": "8c5aeae20363a98f6963720d29fce040ca8b56a8e75f8b564c257fce7f6d0417",
+  "surahs": 114,
+  "verses": 6236,
+  "orthographic_tokens": 77433,
+  "whitespace_fields": 81812,
+  "mean_tokens_per_verse": 12.417094291212315,
+  "median_tokens_per_verse": 10.0,
+  "q1": 6.0,
+  "q3": 16.0,
+  "min_tokens": 1,
+  "max_tokens": 128,
+  "asr_verse_token_counts": [
+    1,
+    4,
+    9
+  ],
+  "numbering_policy": "Only numbered aya text attributes. Unnumbered opening basmalas excluded; 1:1 and basmala within 27:30 retained.",
+  "token_policy": "Whitespace fields containing a full-sized Arabic base letter; attached clitics remain attached; stand-alone pause and sajdah marks excluded.",
+  "limitations": [
+    "Not morphological word counts.",
+    "One pinned Hafs representation.",
+    "No rarity, superiority, origin, or population inference.",
+    "Whole-corpus descriptive exposure recorded before future study design."
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "project": "The Inimitable Quran Project",
+  "generated_date": "2026-09-20",
+  "narration_type": "Synthetic English narration of a research draft; not Quranic recitation",
+  "engine": "Kokoro-82M v1.0 through kokoro-onnx, local CPU inference",
+  "voice": "af_heart",
+  "speed": 0.92,
+  "codec": "AAC-LC",
+  "bitrate": 64000,
+  "sample_rate": 44100,
+  "channels": 1,
+  "auditory_review": "Not performed. Encoding, duration, sample validity and full-file decoding verified programmatically.",
+  "adaptation": "English narrative retained with citations, Arabic-script quotations and review-note boilerplate omitted. Tables and equation rendered in spoken prose. Scholarly names and transliterations simplified for English speech.",
+  "model_license": "Apache-2.0",
+  "inference_code_license": "MIT",
+  "model_url": "https://huggingface.co/hexgrad/Kokoro-82M",
+  "onnx_model_url": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.int8.onnx",
+  "voices_url": "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin",
+  "model_sha256": "ae315a79b623f244700e4afb9246c46a26066782e049ba174bf3ba433970ee9c",
+  "voices_sha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+  "packages": {
+    "kokoro-onnx": "0.6.1",
+    "onnxruntime": "1.30.0",
+    "soundfile": "0.14.0",
+    "numpy": "2.5.3",
+    "espeakng-loader": "0.2.4"
+  },
+  "chapters": [
+    {
+      "slug": "00-an-invitation-to-examine",
+      "title": "An invitation to examine",
+      "filename": "00-an-invitation-to-examine.m4a",
+      "script_filename": "00-an-invitation-to-examine.txt",
+      "source_sha256": "2e166d8527be8e402e820f8eb57f54686ebf0b3070ce530fffc1bbad0911b2df",
+      "words": 1014,
+      "duration_seconds": 428.036,
+      "duration_label": "7:08",
+      "bytes": 3552624,
+      "voice": "af_heart",
+      "script_sha256": "7671c98912d136bcd353580b4e73452bd1dd454e8c67dfa60961752a805b5e7e",
+      "audio_sha256": "32c15ef7961eaed058d808eab7cd472a6bf7e9dd12eab6d9d856df119878c4b6",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "profile": "LC",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "428.036009",
+          "size": "3552624"
+        }
+      },
+      "generation_wall_seconds": 177.88,
+      "paragraphs": 17,
+      "published_source_sha256": "2e166d8527be8e402e820f8eb57f54686ebf0b3070ce530fffc1bbad0911b2df"
+    },
+    {
+      "slug": "01-the-head-ablaze",
+      "title": "The Head Ablaze",
+      "filename": "01-the-head-ablaze.m4a",
+      "script_filename": "01-the-head-ablaze.txt",
+      "source_sha256": "1988abaa13d202237adcf3f4b03cc39e8bd50bcedc34bd0f89496b47685d2b26",
+      "words": 2493,
+      "duration_seconds": 1080.549,
+      "duration_label": "18:00",
+      "bytes": 8945100,
+      "voice": "af_heart",
+      "script_sha256": "396b7375d7ec73f4702900f3ce0693d546d345cb756fe07d9bc20ac1220b5fd3",
+      "audio_sha256": "8bfcd48d0f9b29f839c28cfc598add3a0b7a7772db3f5a7c53c8ca7ef9328fff",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "profile": "LC",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "1080.549002",
+          "size": "8945100"
+        }
+      },
+      "generation_wall_seconds": 437.57,
+      "paragraphs": 56,
+      "published_source_sha256": "bc7af6d96d44ffa239da192eae8c258b31b93034398d9681341e5d225b27017c"
+    },
+    {
+      "slug": "02-time-and-mutual-responsibility",
+      "title": "Time and Mutual Responsibility",
+      "filename": "02-time-and-mutual-responsibility.m4a",
+      "script_filename": "02-time-and-mutual-responsibility.txt",
+      "source_sha256": "2c6c59f7eca05e0a03e890e5e1c5fde9278785a54ad9966571294b88033b2e7f",
+      "words": 2297,
+      "duration_seconds": 1039.627,
+      "duration_label": "17:19",
+      "bytes": 8628853,
+      "voice": "af_heart",
+      "script_sha256": "cde72ced9e205283169c318eddd3af637b259158e5bfbca567f5cd5f3b4b988a",
+      "audio_sha256": "5723d2550dc8408fa9dcf25ab8edba4a4fa1d614deb1fbd5c71a1744e64702e2",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "profile": "LC",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "1039.627007",
+          "size": "8628853"
+        }
+      },
+      "generation_wall_seconds": 422.33,
+      "paragraphs": 51,
+      "published_source_sha256": "da15dbab94cebe78d6b175d660ca06710af5901a2a783fdb8cdb8035156baf9c"
+    }
+  ],
+  "total_duration_seconds": 2548.212,
+  "total_bytes": 21126577,
+  "public_edition_note": "Published chapter headers clarify AI-assisted draft status and pending independent review; source-count wording was tightened. Substantive narrated argument is unchanged. source_sha256 identifies the pre-publication research file; published_source_sha256 identifies the released text."
+}

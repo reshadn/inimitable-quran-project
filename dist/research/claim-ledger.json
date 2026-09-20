@@ -1,0 +1,202 @@
+{
+  "version": "0.1",
+  "as_of": "2026-09-16",
+  "note": "Initial claim ledger. Source identifiers refer to chapter records or named artifacts. Empirical proposals are not findings.",
+  "claims": [
+    {
+      "id": "CL-001",
+      "level": "textual claim",
+      "status": "primary passage inspected",
+      "claim": "Qur’an 2:23 challenges doubters to produce a comparable surah.",
+      "evidence": [
+        "https://quran.com/2/23"
+      ],
+      "limit": "The passage establishes what the text claims, not that the challenge has been independently adjudicated."
+    },
+    {
+      "id": "CL-002",
+      "level": "textual claim",
+      "status": "primary passage inspected",
+      "claim": "Qur’an 17:88 asserts inability even with cooperation among humans and jinn.",
+      "evidence": [
+        "https://quran.com/17/88"
+      ],
+      "limit": "No finite experiment covers all possible human or nonhuman compositions."
+    },
+    {
+      "id": "CL-003",
+      "level": "grammatical observation",
+      "status": "source-grounded draft",
+      "claim": "In the construction in 19:4, the head is the grammatical subject of blazing.",
+      "evidence": [
+        "research/sources-19-4.json",
+        "chapters/01-the-head-ablaze.md"
+      ],
+      "limit": "Grammatical subject does not mean conscious agent. Independent specialist review pending."
+    },
+    {
+      "id": "CL-004",
+      "level": "historical interpretation",
+      "status": "scanned primary passage verified",
+      "claim": "Al-Jurjānī attributes the effect to arrangement as well as metaphor and contrasts alternative grammatical constructions.",
+      "evidence": [
+        "Dalāʾil al-iʿjāz, Shākir 3rd edition, 1992, pp.100–102",
+        "research/sources-19-4.json"
+      ],
+      "limit": "Establishes al-Jurjānī’s argument. Does not establish unanimous response or modern experimental validation."
+    },
+    {
+      "id": "CL-005",
+      "level": "interpretation",
+      "status": "supported, contestable",
+      "claim": "Making the head the subject presents grayness as pervading it.",
+      "evidence": [
+        "chapters/01-the-head-ablaze.md",
+        "research/sources-19-4.json"
+      ],
+      "limit": "Function requires explanation; accusative analysis is not unanimous. Not a direct proof of origin."
+    },
+    {
+      "id": "CL-006",
+      "level": "lexical interpretation",
+      "status": "multiple readings documented",
+      "claim": "Al-ʿaṣr admits temporal interpretations that include time generally and a portion of the day; some commentaries discuss afternoon prayer.",
+      "evidence": [
+        "ASR-003",
+        "ASR-004"
+      ],
+      "limit": "Multiple reported readings do not prove simultaneous intended meanings."
+    },
+    {
+      "id": "CL-007",
+      "level": "grammatical observation",
+      "status": "annotation and commentary inspected",
+      "claim": "Al-ʿAṣr includes an oath, emphatic judgment, and an explicit exception.",
+      "evidence": [
+        "ASR-001",
+        "ASR-002",
+        "ASR-005"
+      ],
+      "limit": "Identifying these constructions does not measure their excellence."
+    },
+    {
+      "id": "CL-008",
+      "level": "grammatical and contextual interpretation",
+      "status": "sources inspected",
+      "claim": "The repeated tawāṣaw expressions make mutual counsel explicit.",
+      "evidence": [
+        "ASR-002",
+        "ASR-003",
+        "ASR-006"
+      ],
+      "limit": "Does not specify equal authority or participation, and is not a blanket rule for every form VI verb."
+    },
+    {
+      "id": "CL-009",
+      "level": "whole-composition interpretation",
+      "status": "authorial reading",
+      "claim": "On the broad temporal reading, al-ʿAṣr links a temporal horizon, a predicament of loss, and sustained mutual responsibility.",
+      "evidence": [
+        "chapters/02-time-and-mutual-responsibility.md"
+      ],
+      "limit": "A defensible interpretation to be compared with alternatives, not a measured fact."
+    },
+    {
+      "id": "CL-010",
+      "level": "descriptive measurement",
+      "status": "computed and integrity-checked",
+      "claim": "The pinned Tanzil file contains 114 surahs and 6,236 numbered verses.",
+      "evidence": [
+        "data/manifest.json",
+        "analysis/summary.json",
+        "scripts/analyze_corpus.py"
+      ],
+      "limit": "A representation-specific inventory, not a claim that every verse-numbering tradition is identical."
+    },
+    {
+      "id": "CL-011",
+      "level": "descriptive measurement",
+      "status": "computed and independently recomputed",
+      "claim": "The pilot counts 77,433 orthographic tokens under its explicit letter-and-whitespace rule.",
+      "evidence": [
+        "analysis/pilot-report.md",
+        "analysis/verse-lengths.csv"
+      ],
+      "limit": "Not a universal word total or a morphological segmentation count."
+    },
+    {
+      "id": "CL-012",
+      "level": "descriptive measurement",
+      "status": "computed and hand-checked",
+      "claim": "Al-ʿAṣr has 1, 4, and 9 orthographic tokens in its three numbered verses under the pilot rule.",
+      "evidence": [
+        "analysis/summary.json",
+        "tests/test_corpus_integrity.py"
+      ],
+      "limit": "No numerical miracle, semantic-density finding, or comparative superiority follows."
+    },
+    {
+      "id": "CL-013",
+      "level": "empirical hypothesis",
+      "status": "not tested",
+      "claim": "Specified changes to expression may alter perceived meaning and contextual fit.",
+      "evidence": [
+        "research/methods-and-studies.md, Study A"
+      ],
+      "limit": "No participants, ratings, confidence intervals, or experimental results exist."
+    },
+    {
+      "id": "CL-014",
+      "level": "empirical hypothesis",
+      "status": "not tested",
+      "claim": "Some textual choices may affect comprehension or recall under controlled conditions.",
+      "evidence": [
+        "research/methods-and-studies.md, Studies B and C"
+      ],
+      "limit": "Familiarity, proficiency, translation, and performer effects require separate treatment."
+    },
+    {
+      "id": "CL-015",
+      "level": "comparative evaluation",
+      "status": "not established",
+      "claim": "The selected literary achievements warrant comparison with strong human compositions.",
+      "evidence": [
+        "research/methods-and-studies.md"
+      ],
+      "limit": "The comparison corpus and confirmatory rubric have not been finalized or evaluated."
+    },
+    {
+      "id": "CL-016",
+      "level": "historical inference",
+      "status": "research pending",
+      "claim": "Composition and transmission circumstances may constrain authorship explanations.",
+      "evidence": [
+        "research/source-dossier.md",
+        "research/source-catalog.json"
+      ],
+      "limit": "No claim about Muhammad’s education, access, or opponents’ inability is treated as demonstrated by the current literary chapters."
+    },
+    {
+      "id": "CL-017",
+      "level": "philosophical inference",
+      "status": "intended argument, not completed conclusion",
+      "claim": "A cumulative argument may support revelation when literary, comparative, and historical premises are adequately established.",
+      "evidence": [
+        "research/charter.md",
+        "research/methods-and-studies.md"
+      ],
+      "limit": "Requires explicit philosophical premises and the strongest rival explanations. No probability of revelation is computed."
+    },
+    {
+      "id": "CL-018",
+      "level": "research contribution",
+      "status": "novelty unverified",
+      "claim": "Controlled variants, multi-objective profiles, and phrase-to-surah tracing are candidate contributions.",
+      "evidence": [
+        "research/book-map.md",
+        "research/methods-and-studies.md"
+      ],
+      "limit": "Do not claim methodological invention until a literature and expert review supports originality."
+    }
+  ]
+}

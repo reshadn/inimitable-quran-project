@@ -1,0 +1,29 @@
+name: Analysis, comparison, or accessibility proposal
+description: Propose a reproducible investigation or improvement.
+title: "[Proposal] "
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Research question or reader problem
+    validations:
+      required: true
+  - type: textarea
+    id: method
+    attributes:
+      label: Proposed method or change
+      description: Include input data, comparator selection, counting rules, and reproduction steps when relevant.
+    validations:
+      required: true
+  - type: textarea
+    id: limitations
+    attributes:
+      label: Limitations and disconfirming evidence
+      description: What could weaken the proposed claim? Identify confounds, prior exploration, or alternative explanations.
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources, permissions, and dependencies
+      description: Use lawful links. Do not upload private participant records or unauthorized full works.

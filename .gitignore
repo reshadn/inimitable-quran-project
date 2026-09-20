@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+outputs/
+*.aiff
+*.wav
+.env
+.env.*
+!.env.example
+qa/

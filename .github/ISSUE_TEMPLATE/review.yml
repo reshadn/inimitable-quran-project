@@ -1,0 +1,39 @@
+name: Source correction or peer review
+description: Review a specific claim, passage, translation, or source.
+title: "[Review] "
+body:
+  - type: markdown
+    attributes:
+      value: "Agreement with the project's conclusion is not required. Submissions are public. Do not include private data or unauthorized copyrighted copies."
+  - type: input
+    id: location
+    attributes:
+      label: Claim or location
+      description: Chapter, passage, file, or source ID.
+    validations:
+      required: true
+  - type: textarea
+    id: concern
+    attributes:
+      label: Observation and proposed correction
+      description: Separate what you observed from your interpretation. Explain why it matters.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence and inspection scope
+      description: Author, title, edition, exact page or locator, lawful links, and what you actually inspected. Say if evidence is not yet available.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives and remaining uncertainty
+  - type: checkboxes
+    id: rights
+    attributes:
+      label: Sharing permissions
+      options:
+        - label: I have permission to share the material included and have excluded private personal data.
+          required: true

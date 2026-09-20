@@ -1,0 +1,193 @@
+{
+  "schema_version": "1.0",
+  "chapter": "chapters/02-time-and-mutual-responsibility.md",
+  "compiled_on": "2026-09-16",
+  "verification_policy": "Verified means the specified online passage was inspected. It does not mean a critical printed edition was collated, every transmitted report authenticated, or an interpretation independently demonstrated.",
+  "sources": [
+    {
+      "id": "ASR-001",
+      "title": "Qur'an, Surah al-Asr (103:1-3)",
+      "author": null,
+      "resource_type": "primary_text_digital_display",
+      "provider": "Quran.com",
+      "language": "Arabic",
+      "urls": [
+        "https://quran.com/al-asr"
+      ],
+      "accessed_on": "2026-09-16",
+      "inspected_scope": "All three displayed Arabic verses, 103:1-3; HTML extraction includes word-by-word and complete-verse text. Displayed English translation inspected for orientation but not reproduced as the chapter translation.",
+      "verified_locator": "Qur'an 103:1-3",
+      "edition_verified": null,
+      "print_page_verified": null,
+      "status": "online_primary_text_inspected",
+      "supports": [
+        "Arabic wording and order",
+        "Three-verse composition",
+        "Repeated wa-tawasaw bi- expression",
+        "Verse-end lexical forms"
+      ],
+      "usage_notes": "Chapter uses ordinary vowelled Arabic spelling, not a claimed exact reproduction of Uthmani glyphs or recitation signs. English translation is original and provisional.",
+      "gaps": [
+        "Independent Arabic proofreading pending",
+        "Independent translation review pending",
+        "This display alone does not document every reading tradition or establish a historical text-critical argument"
+      ]
+    },
+    {
+      "id": "ASR-002",
+      "title": "The Quranic Arabic Corpus: Word by Word, Chapter 103",
+      "author": "Kais Dukes and Quranic Arabic Corpus contributors",
+      "resource_type": "primary_linguistic_annotation_resource",
+      "provider": "The Quranic Arabic Corpus",
+      "language": "Arabic and English",
+      "urls": [
+        "https://corpus.quran.com/wordbyword.jsp?chapter=103&verse=1"
+      ],
+      "accessed_on": "2026-09-16",
+      "inspected_scope": "Word-by-word annotations for 103:1:1 through 103:3:9, all displayed on the opened page.",
+      "verified_locator": "Tokens 103:1:1; 103:2:1-4; 103:3:1-9",
+      "edition_verified": null,
+      "print_page_verified": null,
+      "status": "online_annotation_inspected",
+      "supports": [
+        "Opening wa is an oath particle",
+        "La in lafi is emphatic",
+        "Illa is an exceptive particle",
+        "Plural relative and verbal forms",
+        "Tawasaw annotated as form VI perfect third-person masculine plural"
+      ],
+      "usage_notes": "A useful independently inspectable annotation, not an infallible grammatical authority or a literary-excellence measurement. Inna emphasis also checked in al-Razi; the corpus labels it an accusative particle.",
+      "gaps": [
+        "Formal annotation-version identifier not established",
+        "Independent qualified morphology review pending",
+        "Form VI does not warrant a blanket claim that every verb of that form has the same reciprocal meaning"
+      ]
+    },
+    {
+      "id": "ASR-003",
+      "title": "Jami al-bayan an tawil ay al-Quran, commentary on Surah al-Asr",
+      "author": "Abu Jafar Muhammad ibn Jarir al-Tabari",
+      "resource_type": "classical_primary_commentary_digital_transcription",
+      "provider": "King Saud University Quran Project",
+      "language": "Arabic",
+      "urls": [
+        "https://quran.ksu.edu.sa/tafseer/tabary/sura103-aya1.html",
+        "https://quran.ksu.edu.sa/tafseer/tabary/sura103-aya3.html"
+      ],
+      "accessed_on": "2026-09-16",
+      "inspected_scope": "Complete short commentary displayed for 103:1 and 103:3. The 103:3 page initially timed out and then loaded successfully on retry.",
+      "verified_locator": "Commentary on 103:1, concluding judgment beginning والصواب من القول; commentary on 103:3, explanation of collective al-insan and both tawasaw clauses",
+      "edition_verified": null,
+      "print_page_verified": null,
+      "status": "online_primary_passages_inspected_edition_unverified",
+      "supports": [
+        "Reported temporal interpretations of asr and al-Tabari's inclusive conclusion",
+        "Al-insan explained collectively to account for plural exception",
+        "Tawasi explained as some counseling others",
+        "Truth linked to revelation and patience to obedience"
+      ],
+      "usage_notes": "Reports establish what al-Tabari transmits, not independent authentication of each report. Displayed page 601 refers to Quran navigation and is not cited as a commentary page.",
+      "gaps": [
+        "Printed edition and page collation pending",
+        "Transmission chains not independently authenticated",
+        "Comparative manuscript or variant-reading analysis outside inspected scope"
+      ]
+    },
+    {
+      "id": "ASR-004",
+      "title": "Al-Kashshaf, commentary on Surah al-Asr",
+      "author": "Abu al-Qasim Mahmud ibn Umar al-Zamakhshari",
+      "resource_type": "classical_primary_commentary_digital_transcription",
+      "provider": "Quran-Tafsir.net",
+      "language": "Arabic",
+      "urls": [
+        "https://quran-tafsir.net/zamakhshary/sura103-aya1.html",
+        "https://quran-tafsir.net/zamakhshary/sura103-aya3.html"
+      ],
+      "accessed_on": "2026-09-16",
+      "inspected_scope": "Commentary on 103:1 including alternate oath referents; commentary on 103:3 explaining truth and patience. Unrelated site catalogue was not treated as textual evidence.",
+      "verified_locator": "103:1 paragraph beginning أقسم بصلاة العصر; 103:3 paragraph beginning والمعنى أن الناس في خسران",
+      "edition_verified": null,
+      "print_page_verified": null,
+      "status": "online_primary_passages_inspected_edition_unverified",
+      "supports": [
+        "Prayer, afternoon, and time presented as alternate readings",
+        "Religiously contextualized interpretation of truth",
+        "Patience interpreted with reference to obedience, restraint, and trials"
+      ],
+      "usage_notes": "A hadith-like reward report appears at the end of 103:3. It is deliberately not used because its authenticity was not investigated. The website's general edition description does not establish the edition of this particular transcription.",
+      "gaps": [
+        "Printed edition and page collation pending",
+        "Quoted transmitted reports not authenticated",
+        "Do not infer that all alternate meanings must be simultaneously intended"
+      ]
+    },
+    {
+      "id": "ASR-005",
+      "title": "Mafatih al-ghayb, commentary on Qur'an 103:2",
+      "author": "Fakhr al-Din al-Razi (work attributed under this name by the digital source)",
+      "resource_type": "classical_primary_commentary_digital_transcription",
+      "provider": "Quran-Tafsir.net",
+      "language": "Arabic",
+      "urls": [
+        "https://quran-tafsir.net/alrazy/sura103-aya2.html",
+        "https://quran-tafsir.net/alrazy/sura103-aya3.html"
+      ],
+      "accessed_on": "2026-09-16",
+      "inspected_scope": "103:2 issues one through four and the paragraph listing emphasis by inna, lam, and fi khusr. Opening issues on 103:3 also inspected, but not used as a substantive chapter authority because of an apparent transcription problem in the displayed passage.",
+      "verified_locator": "103:2 المسألة الأولى; concluding discussion beginning واعلم أن الله تعالى قرن بهذه الآية قرائن",
+      "edition_verified": null,
+      "print_page_verified": null,
+      "status": "online_primary_passage_inspected_transcription_caution",
+      "supports": [
+        "Generic and particular-person interpretations of al-insan are recorded",
+        "Inna and lam identified as emphatic",
+        "Fi khusr interpreted as immersion or encompassing loss"
+      ],
+      "usage_notes": "Cited observations rely on 103:2. The 103:3 transcription contains a phrase involving الذين كفروا in an argument about coordinated faith and action that requires print checking before quotation or analysis. No claim about authorship of disputed portions of the commentary is resolved here.",
+      "gaps": [
+        "Printed edition and page collation pending",
+        "103:3 apparent transcription issue unresolved",
+        "Historical reports about named opponents not authenticated",
+        "Authorship/completion history of the full work not independently investigated"
+      ]
+    },
+    {
+      "id": "ASR-006",
+      "title": "Al-Tahrir wa-l-tanwir, commentary on Qur'an 103:2-3",
+      "author": "Muhammad al-Tahir Ibn Ashur",
+      "resource_type": "modern_primary_commentary_digital_transcription",
+      "provider": "Quran-Tafsir.net",
+      "language": "Arabic",
+      "urls": [
+        "https://quran-tafsir.net/ashour/sura103-aya2.html",
+        "https://quran-tafsir.net/ashour/sura103-aya3.html"
+      ],
+      "accessed_on": "2026-09-16",
+      "inspected_scope": "Complete displayed commentary on 103:2; displayed commentary on 103:3 including special-after-general analysis and mutual counsel.",
+      "verified_locator": "103:2 paragraphs beginning وتعريف الإنسان and والظرفية; 103:3 paragraph beginning وعطف على عمل الصالحات",
+      "edition_verified": null,
+      "print_page_verified": null,
+      "status": "online_primary_passages_inspected_edition_unverified",
+      "supports": [
+        "Generic expression qualified with reference to historical addressees",
+        "Spatial fi interpreted as figurative enclosure",
+        "Loss interpreted in relation to ultimate outcome",
+        "Mutual counsel singled out after righteous action as a particular within a general category"
+      ],
+      "usage_notes": "Chapter paraphrases selectively rather than reproducing the commentary. Conclusions reflect Ibn Ashur's interpretation, not unanimous grammatical necessity. Site catalogue mentions a Tunis 1984 publication but the chapter does not claim that edition was inspected.",
+      "gaps": [
+        "Printed edition and page collation pending",
+        "Independent translation of cited explanations pending",
+        "Theology of salvation and degrees of loss not resolved by this literary chapter"
+      ]
+    }
+  ],
+  "chapter_level_gaps": [
+    "No original human-subject study or acoustic experiment has been conducted",
+    "No fair contest with strong human compositions is completed in this chapter",
+    "No universal human incapacity or divine-origin inference follows from the local observations alone",
+    "Final Arabic proofread and qualified independent literary review remain pending",
+    "Print-edition citations remain to be supplied before a reviewed edition"
+  ]
+}

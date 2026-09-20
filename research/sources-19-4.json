@@ -1,0 +1,224 @@
+{
+  "schema_version": "1.0",
+  "chapter": "chapters/01-the-head-ablaze.md",
+  "verified_on": "2026-09-16",
+  "source_count": 6,
+  "status": "Initial source-backed sample chapter; independent scholarly review pending",
+  "verification_policy": "A source is verified only at the inspected scope. Digital transcriptions, publisher summaries, and page-image checks are distinguished. Catalogue metadata does not constitute verification of arguments. No original participant study has been performed.",
+  "sources": [
+    {
+      "id": "C19-01",
+      "author": "Qur'an",
+      "title": "Surat Maryam, verses 19:2-6",
+      "source_type": "Primary text, digital presentation",
+      "host": "Quran.com / Quran.Foundation",
+      "url": "https://quran.com/maryam/2-6",
+      "bibliographic_metadata": {
+        "language": "Arabic",
+        "primary_locator": "Qur'an 19:2-6",
+        "edition": "Quran.com displayed Arabic text; no physical mushaf edition independently checked",
+        "translation_used_in_chapter": "Original working translations, not copied from the hosted English translation"
+      },
+      "inspected_scope": "Arabic and displayed translation of all five verses, 19:2 through 19:6; Arabic phrase checked against C19-02.",
+      "exact_locator": "19:2 introduction naming Zakariyya and mercy; 19:3 private call; 19:4 full prayer sentence; 19:5-6 request for a successor and inheritance.",
+      "supports": [
+        "Arabic wording of 19:4, including wa-ishta'ala al-ra'su shayban",
+        "Identity of speaker and private-prayer context",
+        "The sequence of physical weakness, gray hair, and the statement about calling upon God",
+        "Surrounding request in verses 5-6"
+      ],
+      "verification_status": "passage_inspected",
+      "limitations": [
+        "No manuscript, early-text-history, or canonical-reading survey performed.",
+        "Chapter uses ordinary vocalized Arabic spelling rather than reproducing all additional mushaf symbols.",
+        "Original translations require independent specialist review.",
+        "Nature of inheritance in 19:6 is deliberately left open; bracketed additions in a hosted translation are not treated as Arabic wording."
+      ]
+    },
+    {
+      "id": "C19-02",
+      "author": "Kais Dukes and Quranic Arabic Corpus contributors",
+      "title": "The Quranic Arabic Corpus: Verse (19:4), Word by Word",
+      "source_type": "Modern linguistic annotation resource",
+      "host": "Quranic Arabic Corpus, maintained by Quran.com",
+      "url": "https://corpus.quran.com/wordbyword.jsp?chapter=19&verse=4",
+      "bibliographic_metadata": {
+        "language": "Arabic and English",
+        "publication_date": null,
+        "site_copyright_range_displayed": "2009-2017",
+        "resource_locator": "19:4:1-14, especially 19:4:5 and 19:4:7-9"
+      },
+      "inspected_scope": "Word-by-word morphology for 19:4 and continuation into 19:5 as returned on the page.",
+      "exact_locator": "19:4:7 wa-ish'ta'ala is labeled prefixed conjunction plus third-person masculine singular form VIII perfect verb; 19:4:8 l-rasu is a nominative noun; 19:4:9 shayban is an accusative indefinite noun; 19:4:5 al-'azmu is nominative.",
+      "supports": [
+        "Observable inflectional categories for the analyzed clause",
+        "Separation of case annotation from a complete syntactic interpretation",
+        "Morphological check of the Arabic text"
+      ],
+      "verification_status": "relevant_annotation_inspected",
+      "limitations": [
+        "The inspected word-by-word page labels case but does not itself establish the full tamyiz analysis; C19-03 and C19-04 supply the classical discussion.",
+        "No complete audit of corpus annotation accuracy or treebank coverage performed.",
+        "A linguistic annotation resource does not establish literary superiority or theological origin."
+      ]
+    },
+    {
+      "id": "C19-03",
+      "author": "'Abd al-Qahir al-Jurjani",
+      "title": "Dala'il al-i'jaz",
+      "title_arabic": "دلائل الإعجاز",
+      "source_type": "Classical primary text, scanned print edition",
+      "host": "Internet Archive, item loga13, file 121.pdf",
+      "url": "https://archive.org/download/loga13/121.pdf",
+      "passage_url": "https://archive.org/download/loga13/121.pdf#page=142",
+      "bibliographic_metadata": {
+        "editor": "Mahmud Muhammad Shakir (read and annotated by)",
+        "editor_arabic": "محمود محمد شاكر",
+        "edition": "Third",
+        "year_hijri": "1413",
+        "year_gregorian": "1992",
+        "publisher": "Matba'at al-Madani, Cairo; Dar al-Madani, Jeddah",
+        "typesetting_note": "Imprint also credits Maktabat al-Khanji with photographic typesetting; not substituted for the publishers named on title page.",
+        "language": "Arabic"
+      },
+      "inspected_scope": "Cover, title page, imprint, and original scanned printed pages 100-104; printed page 71 also inspected during navigation. Relevant argument is in printed pp. 100-102, paragraphs 91-93.",
+      "exact_locator": {
+        "printed_pages": "100-102",
+        "paragraphs": "91-93",
+        "pdf_one_based_pages": "142-144",
+        "pdf_zero_based_indices": "141-143",
+        "title_page_pdf_one_based": 7,
+        "edition_imprint_pdf_one_based": 8,
+        "paragraph_91": "Printed p. 100 continuing onto p. 101: metaphor alone insufficient; attribution to the head; comparison with constructions making grayness the subject.",
+        "paragraph_92": "Printed p. 101: comprehensiveness or spread; contrast with fire in a house versus a house ablaze.",
+        "paragraph_93": "Printed p. 102: comparison with Quran 54:12 and additional observation about the definite article in al-ra's."
+      },
+      "file_integrity": {
+        "sha256": "75f0ba2c8bfed3e8a58e1eb8fd07883f08cf327ce41b52bb03735bf81429b983",
+        "page_count": 742
+      },
+      "supports": [
+        "Exact original attribution of the literary analysis to al-Jurjani",
+        "Role of grammatical arrangement in addition to metaphor",
+        "The author's interpretation of comprehensive grayness",
+        "The two analytical Arabic alternative constructions used in the chapter",
+        "Observation about the understood possessor of the definite expression the head"
+      ],
+      "verification_status": "edition_and_passage_verified_from_page_images",
+      "verification_method": "Downloaded original scan, rendered with PyMuPDF, visually inspected title/imprint and passage images. Printed page numbers read directly. Web fetch of the Internet Archive redirect failed, but direct curl retrieval succeeded. No scan images reproduced in the manuscript.",
+      "discovery_and_crosscheck_urls": [
+        "https://trath.lisanarb.com/2018/07/pdf_366.html",
+        "https://usul.ai/ur/t/dalail-icjaz/100",
+        "https://www.almutadaber.com/books/book1_8178.pdf"
+      ],
+      "limitations": [
+        "This verifies the cited edition and passage, not the entire book or the manuscript history of its text.",
+        "The Usul route number 100 displays printed p. 89; route numbers must not be substituted for printed page numbers.",
+        "A separate generated Shamela search result reported 1412 AH, whereas the inspected scan imprint reads 1413 AH; the manuscript follows the inspected imprint.",
+        "The classical analysis is an argument and evaluation, not modern experimental evidence.",
+        "A durable local archival copy was not added to the project; temporary verification files may be removed by the operating system."
+      ]
+    },
+    {
+      "id": "C19-04",
+      "author": "Abu Ja'far Muhammad ibn Jarir al-Tabari",
+      "title": "Jami' al-bayan, commentary on Qur'an 19:4",
+      "title_arabic": "جامع البيان",
+      "source_type": "Classical primary commentary, digital transcription",
+      "host": "Quran.com",
+      "url": "https://quran.com/maryam/4/tafsirs/ar-tafsir-al-tabari",
+      "bibliographic_metadata": {
+        "language": "Arabic",
+        "edition": null,
+        "editor": null,
+        "print_publisher": null,
+        "print_year": null
+      },
+      "inspected_scope": "Entire commentary block displayed for verse 19:4.",
+      "exact_locator": "Commentary on 19:4, paragraph beginning وقد اختلف أهل العربية; final paragraphs commenting on ولم أكن بدعائك رب شقيا.",
+      "supports": [
+        "Recorded disagreement over the accusative shayban: verbal-noun analysis versus specifying/explanatory analysis",
+        "Reading the concluding clause in relation to previously answered supplication",
+        "Need to avoid falsely claiming a unanimous grammatical analysis"
+      ],
+      "verification_status": "primary_passage_transcription_inspected",
+      "limitations": [
+        "No printed edition, volume, or page image was verified; citation uses verse and paragraph incipit.",
+        "Reported authorities and historical ages in the commentary were not separately authenticated and are not used as established historical facts.",
+        "This source establishes the presence of recorded grammatical alternatives, not an exhaustive history of the debate."
+      ]
+    },
+    {
+      "id": "C19-05",
+      "author": "Muhammad al-Tahir ibn 'Ashur",
+      "title": "Al-Tahrir wa-l-tanwir, commentary on Qur'an 19:4-6",
+      "title_arabic": "التحرير والتنوير",
+      "source_type": "Modern primary commentary, digital transcription",
+      "host": "Quran.com",
+      "url": "https://quran.com/19:4/tafsirs/arabic-tanweer-tafseer",
+      "crosscheck_url": "https://quran-tafsir.net/ashour/sura19-aya4.html",
+      "bibliographic_metadata": {
+        "language": "Arabic",
+        "edition": null,
+        "editor": null,
+        "print_publisher": null,
+        "print_year": null,
+        "displayed_page_markers": "The digital transcription contains markers 64-68, but these are not independently verified print locators."
+      },
+      "inspected_scope": "Displayed commentary block for the group 19:4-6, especially paragraphs about the purpose of prayer, weakness, the fire image, and the final clause of 19:4.",
+      "exact_locator": "Commentary on 19:4-6; paragraphs beginning وإنما كان ذلك تمهيدا, والخبران, وشبه عموم الشيب, and وجملة ولم أكن بدعائك.",
+      "supports": [
+        "Reading the physical descriptions as preparation for the request and appeal for mercy",
+        "Interpretation of the fire image through luminous spread across a dark surface",
+        "Context-sensitive reading of the verse rather than detached rhetorical-device counting"
+      ],
+      "verification_status": "primary_passage_transcription_inspected",
+      "limitations": [
+        "No physical edition or page image inspected; no edition-specific page claim made.",
+        "Biological statements, historical reports, and inheritance interpretations appearing in the commentary have not been independently verified and are not adopted as established facts.",
+        "The author's account is exegetical and literary interpretation, not a reader-response study.",
+        "This commentary is later than al-Jurjani and belongs to an inherited discussion; it is not treated as an independent historical witness to the verse's first reception."
+      ]
+    },
+    {
+      "id": "C19-06",
+      "author": "Lara Harb",
+      "title": "Nazm, Wonder, and the Inimitability of the Quran",
+      "container_title": "Arabic Poetics: Aesthetic Experience in Classical Arabic Literature",
+      "source_type": "Modern academic research, publisher chapter summary only",
+      "host": "Cambridge University Press",
+      "url": "https://www.cambridge.org/core/books/abs/arabic-poetics/nazm-wonder-and-the-inimitability-of-the-quran/B980231F9936B751EF11029D69CF4554",
+      "doi": "10.1017/9781108780483.007",
+      "doi_url": "https://doi.org/10.1017/9781108780483.007",
+      "bibliographic_metadata": {
+        "chapter": 5,
+        "chapter_pages": "203-251",
+        "print_year": 2020,
+        "online_publication_date": "2020-04-24",
+        "publisher": "Cambridge University Press",
+        "language": "English"
+      },
+      "inspected_scope": "Publisher-provided chapter summary, chapter title, author, publication date, chapter page range, and DOI. Full chapter was not accessed.",
+      "exact_locator": "Public Summary section of chapter 5 landing page. The 203-251 range is the publisher's bibliographic range, not a claim of page-by-page inspection.",
+      "supports": [
+        "Research orientation connecting sentence construction, contextual or implicit meanings, discovery, and wonder",
+        "Modern scholarly attention to connections between poetic and Qur'anic aesthetic analysis"
+      ],
+      "verification_status": "publisher_summary_and_metadata_verified_only",
+      "limitations": [
+        "Does not support an attribution of a detailed reading of Qur'an 19:4 to Harb.",
+        "Does not establish that Harb endorses this book's theological conclusion.",
+        "Does not provide experimental evidence about reader experience.",
+        "Full chapter acquisition and reading remain necessary before detailed engagement with its argument."
+      ]
+    }
+  ],
+  "open_review_items": [
+    "Independent specialist review of Arabic transcription, transliteration, pausal pronunciation note, and original translations.",
+    "Independent check of the distinction between grammatical observation, tamyiz analysis, and alternative masdar analysis.",
+    "Assess whether the proposed reading of energetic imagery and bodily weakness is persuasive without overstating necessity.",
+    "Acquire and inspect the full Harb chapter before expanding references to its argument.",
+    "Design and preregister any empirical study before reporting reader effects.",
+    "Build fair comparison corpus; the chapter's analytical alternatives are not a completed comparative trial."
+  ]
+}
