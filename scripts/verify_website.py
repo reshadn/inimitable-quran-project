@@ -52,6 +52,8 @@ def main():
             page.locator('.track').nth(2).click()
             page.wait_for_function('document.querySelector("audio").currentTime > 0')
             assert 'Time and Mutual' in page.locator('#track-title').inner_text()
+            audio.evaluate('(a)=>a.currentTime=600')
+            page.wait_for_function('document.querySelector("audio").currentTime > 600.2 && !document.querySelector("audio").seeking',timeout=25000)
             audio.evaluate('(a)=>a.pause()')
             page.goto(BASE+'/research/')
             page.locator('[data-panel="sources"]').click()

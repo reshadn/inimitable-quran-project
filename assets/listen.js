@@ -8,11 +8,11 @@
   function selectTrack(index, play = false) {
     selected = Math.max(0, Math.min(tracks.length - 1, index));
     const track = tracks[selected];
-    audio.src = '/audio/' + track.filename;
+    audio.src = track.stream_url || '/audio/' + track.filename;
     audio.playbackRate = Number(speed.value);
     document.getElementById('track-title').textContent = track.title;
     document.getElementById('track-number').textContent = `${selected + 1} / ${tracks.length} · ${track.duration_label}`;
-    document.getElementById('download').href = audio.src;
+    document.getElementById('download').href = '/audio/' + track.filename;
     document.getElementById('transcript').href = '/audio/' + track.script_filename;
     document.getElementById('read-chapter').href = '/read/' + track.slug + '/';
     buttons.forEach((button, i) => button.setAttribute('aria-current', String(i === selected)));

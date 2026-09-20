@@ -41,7 +41,7 @@ python3 -m venv .venv
 .venv/bin/python -m http.server 8747 --directory dist
 ```
 
-The source ZIP omits binary narration to keep the source download small. To build with audio, use the GitHub repository or copy the three published `.m4a` files into `audio/`. Serving locally is a preview; it does not publish. The public corpus file must remain unchanged, including its license notice.
+The source ZIP omits binary narration to keep the source download small. To build with audio, use the GitHub repository or copy the three published `.m4a` files into `audio/`. The listening player streams immutable audio from the public GitHub repository to support seeking. Same-site files provide direct downloads. Serving locally is a preview; it does not publish. The public corpus file must remain unchanged, including its license notice.
 
 ## Licenses
 
