@@ -9,6 +9,9 @@ FILE = ROOT / 'outputs/The_Quran_Examined_Research_Edition.html'
 QA = ROOT / 'outputs/qa'
 QA.mkdir(exist_ok=True)
 results = []
+catalog = json.loads((ROOT / 'research/source-catalog.json').read_text())
+evidence_count = sum(len(json.loads(path.read_text())['sources']) for path in (ROOT / 'research').glob('sources-*.json'))
+claim_count = len(json.loads((ROOT / 'research/claim-ledger.json').read_text())['claims'])
 with sync_playwright() as p:
     browser = p.chromium.launch()
     for width, height, label in [(1440, 1000, 'desktop'), (390, 844, 'mobile')]:
@@ -33,17 +36,17 @@ with sync_playwright() as p:
                 assert '14 written tokens' in page.locator('#surah-details').inner_text()
                 page.screenshot(path=str(QA / f'{label}-lab.png'))
             if panel == 'sources':
-                assert page.locator('#source-list .source-card').count() == 65
+                assert page.locator('#source-list .source-card').count() == catalog['counts']['total']
                 page.select_option('#status-filter', 'passage_inspected')
-                assert page.locator('#source-list .source-card').count() == 9
+                assert page.locator('#source-list .source-card').count() == catalog['counts']['passage_inspected']
                 page.locator('#source-search').fill('Jurj')
                 assert page.locator('#source-list .source-card').count() == 1
                 page.locator('#source-search').fill('no-source-matches-this')
                 assert page.locator('#source-list .source-card').count() == 0
                 page.locator('#source-search').fill('')
                 page.select_option('#status-filter', 'all')
-                assert page.locator('#evidence-list .source-card').count() == 12
-                assert page.locator('#claim-list .claim-card').count() == 18
+                assert page.locator('#evidence-list .source-card').count() == evidence_count
+                assert page.locator('#claim-list .claim-card').count() == claim_count
                 assert 'undefined' not in page.locator('#sources').inner_text()
                 page.screenshot(path=str(QA / f'{label}-sources.png'))
         broken = []

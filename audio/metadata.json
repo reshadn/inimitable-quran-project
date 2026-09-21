@@ -102,7 +102,7 @@
       },
       "auditory_review": "Not performed",
       "published_source_sha256": "6a8bf55021fc91660bb697270bf60c569208782a42e995a8fff40ae44426a715",
-      "stream_url": "https://raw.githubusercontent.com/reshadn/inimitable-quran-project/main/audio/03-the-challenge.m4a"
+      "stream_url": "https://raw.githubusercontent.com/reshadn/inimitable-quran-project/158cb936990b67fd92023f6ca71ed9c84f545fd0/audio/03-the-challenge.m4a"
     },
     {
       "slug": "04-the-distance-between-claims",
@@ -145,7 +145,7 @@
       },
       "auditory_review": "Not performed",
       "published_source_sha256": "11365d0988655630b4fa1ddacdf56b91471fd2e8a429831c0b53d2e5ceeb90a3",
-      "stream_url": "https://raw.githubusercontent.com/reshadn/inimitable-quran-project/main/audio/04-the-distance-between-claims.m4a"
+      "stream_url": "https://raw.githubusercontent.com/reshadn/inimitable-quran-project/158cb936990b67fd92023f6ca71ed9c84f545fd0/audio/04-the-distance-between-claims.m4a"
     },
     {
       "slug": "05-a-history-of-the-question",
@@ -188,7 +188,7 @@
       },
       "auditory_review": "Not performed",
       "published_source_sha256": "9d52b6d9a4bb2f144405eb9c54660c5a5f443337daf175d047c58fb5a26effbd",
-      "stream_url": "https://raw.githubusercontent.com/reshadn/inimitable-quran-project/main/audio/05-a-history-of-the-question.m4a"
+      "stream_url": "https://raw.githubusercontent.com/reshadn/inimitable-quran-project/158cb936990b67fd92023f6ca71ed9c84f545fd0/audio/05-a-history-of-the-question.m4a"
     },
     {
       "slug": "01-the-head-ablaze",
@@ -301,7 +301,7 @@
       },
       "auditory_review": "Not performed",
       "published_source_sha256": "50603603797af2b9a940426b31fe8576cbf0bab2e16348d4941c35549c15e3e3",
-      "stream_url": "https://raw.githubusercontent.com/reshadn/inimitable-quran-project/main/audio/06-counting-without-overclaiming.m4a"
+      "stream_url": "https://raw.githubusercontent.com/reshadn/inimitable-quran-project/158cb936990b67fd92023f6ca71ed9c84f545fd0/audio/06-counting-without-overclaiming.m4a"
     }
   ],
   "total_duration_seconds": 6365.337,
