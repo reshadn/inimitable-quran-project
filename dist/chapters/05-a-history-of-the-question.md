@@ -1,0 +1,89 @@
+# A History of the Question
+
+*Research draft dated 20 September 2026. This chapter follows selected arguments, not a complete history of the tradition. Classical passages and the extent of modern-source inspection are identified below. Independent specialist review remains pending.*
+
+Someone hears a passage of the Qur’an and is struck by it. A second listener asks what, exactly, has produced that response. A third accepts the explanation but asks why an accomplished human could not have produced the same effect. These are different questions. A serious history of inimitability must preserve their differences.
+
+The classical writers considered here do more than repeat that the Qur’an is beautiful. They examine the relation between wording and meaning, the conditions of successful comparison, the significance of an unanswered challenge, and the location of the miracle itself. Their answers are not interchangeable. Some disagreements reach the heart of the argument: does inability arise from the composition’s intrinsic character, or could divine intervention prevent an otherwise possible response?
+
+This chapter approaches that history as a set of arguments we can still learn to examine. Respect for a scholar does not require accepting every premise. Disagreement among scholars does not make their analyses worthless. It makes precision necessary: which claim is being defended, with what evidence, and against which alternative?
+
+## Al-Rummānī: eloquence has to communicate
+
+At the opening of *al-Nukat fī iʿjāz al-Qurʾān*, al-Rummānī lists several grounds of inimitability, including the absence of a successful response despite motivation, the challenge, *ṣarfa*, eloquence, and truthful reports of future events. His argument therefore cannot be reduced to a single aesthetic test. In his account of eloquence, merely making a meaning understood is insufficient. How the expression brings that meaning to the recipient matters. He then distinguishes rhetorical operations including concision, simile, metaphor, and the fitting together of sounds. [HIS-01: displayed pp. 75–76](https://usul.ai/t/nukat-fi-icjaz-quran)
+
+His discussion of concision supplies a useful restraint. Brevity can communicate economically or omit what is needed; expansion can explain fruitfully or waste words. The right amount depends on the task. He also acknowledges the excellence of brief human sayings and argues that judgment of inimitability requires a sufficient extent of composition. A striking fragment is not the whole demonstration. [HIS-01: displayed pp. 78–79](https://usul.ai/t/nukat-fi-icjaz-quran)
+
+The consequence for this project is practical. We cannot count short sentences and call the result superior eloquence. A warning, a narrative, and an account of contractual obligations may need different amounts of explanation. Compression that obscures a necessary distinction can be a failure. Repetition that keeps an important relation in view can serve a purpose. The analytical question is what a formulation allows its audience to understand, remember, or recognize in its particular situation.
+
+This also changes the burden of comparison. If we praise the Qur’an for compression but criticize another work merely for being longer, we have selected a winner through the rule. We must explain why the additional words are unnecessary in that other work. If they develop character, clarify an obligation, or establish an expectation that later matters, their contribution deserves consideration.
+
+Al-Rummānī’s categories can thus prompt investigation without becoming an automatic scoring system. Finding a metaphor identifies a possible mechanism. Explaining its contribution is a further task. Establishing that no human composition could accomplish something comparable is further still.
+
+## Al-Khaṭṭābī: admiration needs an explanation
+
+Al-Khaṭṭābī’s *Bayān iʿjāz al-Qurʾān* confronts an uncomfortable problem for defenders of literary inimitability. He reports explanations that refer to an expert’s recognition of exceptional eloquence but cannot adequately specify its cause. He finds that insufficient. The felt effect should lead to an investigation of what produces it. In the passage that follows, he describes Qur’anic discourse as combining qualities such as grandeur and sweetness that can pull expression in different directions. He regards their conjunction as part of its excellence. [HIS-02: displayed pp. 24–26](https://usul.ai/ar/t/bayan-icjaz-quran/6), [continuation](https://usul.ai/ar/t/bayan-icjaz-quran/8)
+
+There is a generous way to understand the appeal to expertise. A skilled reader may recognize a difference before explaining it fully. The inability to give an immediate account does not prove that the difference is imaginary. Yet expertise becomes much more useful to another person when it can guide attention: listen to this transition, inspect this relation, consider what the alternative would make harder to perceive.
+
+For the present book, the combination of qualities suggests a promising inquiry. Can a passage remain forceful while being easy to follow? Can it be compact while allowing several relevant implications? Can its sound support its meaning without making that meaning feel forced? These are our proposed questions, not a modern experiment already conducted by al-Khaṭṭābī.
+
+They also suggest why a single excellence score would hide too much. One passage might gain emphasis at the cost of conversational ease. Another might achieve clarity through deliberate plainness. The interesting question is how a composition handles the demands it actually faces. To present integration as evidence, we must first describe those demands and show that the claimed qualities are present together.
+
+An affirmative argument can draw strength from this inquiry. It offers a more substantial account of achievement than “I find it moving.” But we should not transform an attractive description into a universal claim before testing it across complete passages and serious alternatives.
+
+## Where is the miracle?
+
+The dispute over *ṣarfa* exposes a difference that a history should not conceal. In a form of the view discussed by al-Khaṭṭābī, people could otherwise produce a response, but God turns their intentions away from doing so. The extraordinary event lies in the prevention. This account appears in his presentation of competing explanations; reporting it is not the same as endorsing it. [HIS-02: displayed p. 22](https://usul.ai/ar/t/bayan-icjaz-quran/4)
+
+Al-Bāqillānī objects that, if composition were within human capacity and only prevention stopped it, the prevention would be miraculous rather than the discourse itself. He also rejects the inference that a person who can produce a fine short expression must therefore be able to build an equally fine complete composition. His argument places substantial weight on the character of the composed text. [HIS-03: displayed pp. 29–31](https://islamweb.net/ar/library/content/240/3/فصل-في-بيان-وجه-الدلالة-على-أن-القرآن-معجز)
+
+These positions make different demands on evidence. Consider a hypothetical passage of ordinary literary quality that nobody answers because of divine intervention. That would be compatible with a prevention account as just described. It would supply little support for the claim that the passage’s literary properties themselves exceed human capacity. Conversely, identifying an unusually integrated composition does not by itself demonstrate that someone was supernaturally prevented from responding.
+
+One should therefore resist presenting every classical argument as a vote for the same modern formulation. Nor should a defender silently move to divine prevention whenever a textual comparison becomes difficult. A change in explanation is possible, but it must be acknowledged and defended with the evidence appropriate to it.
+
+This chapter does not assign one uniform prevention doctrine to every scholar associated with the term. Its narrower point is enough: an argument about what people cannot compose differs from an argument about what they are prevented from composing. Keeping those claims distinct protects the affirmative case from becoming impossible to examine.
+
+## Al-Bāqillānī: compare with accomplished poetry
+
+Al-Bāqillānī also undertakes a demanding comparison. In *Iʿjāz al-Qurʾān*, he examines verses attributed to Imruʾ al-Qays rather than confining himself to an intentionally weak imitation. He acknowledges the claims made for the celebrated opening, then contests them through criticism of its wording, implications, and elaboration. For example, he challenges the utility of its accumulation of place names. These are his judgments, not independently established defects in the poem. [HIS-04: displayed pp. 160–166](https://www.islamweb.net/amp/ar/library/content/240/38/باب)
+
+The encounter teaches two lessons that must remain together. A serious argument should face accomplished alternatives. A serious comparison should also allow those alternatives a capable defense. The fact that a major theologian found a poetic detail unnecessary does not settle what that detail contributes within the poem.
+
+A defender of the poem could ask whether geographic particularity anchors memory, establishes a setting, or gives the speaker’s loss a recognizable location. That is a proposed counterreading requiring its own analysis. It cannot be rejected merely because the same details would be excessive in a different kind of discourse. By the same rule, the Qur’an should not be judged defective for declining to pursue the purposes of an elegy or an ode.
+
+The question is not whether comparisons are possible. It is whether the criteria respect the works being compared. Where purposes overlap, a judgment can become specific: which expression makes a relevant distinction clearer, which transition prepares the next movement, which pattern helps a reader hold the argument together? Where purposes differ, we must say so before announcing a result.
+
+This is a demanding standard for a favorable case, but an advantage for the reader. A conclusion becomes more persuasive when it survives an alternative’s best explanation. Merely collecting adverse judgments about other writing would leave the central uncertainty untouched.
+
+## Al-Jurjānī: look at the relationships
+
+The chapter “The Head Ablaze” develops one precise example from ʿAbd al-Qāhir al-Jurjānī’s *Dalāʾil al-iʿjāz*. In paragraphs 91–93, he argues that the merit of Qur’an 19:4 cannot be explained merely by naming its fire metaphor. The attribution of blazing to the head matters. Formulations that make gray hair the subject organize the image differently. He connects the Qur’anic construction with pervasive spread and also attends to its use of the definite noun. The relevant scanned pages are 100–102 in Maḥmūd Muḥammad Shākir’s third edition. [HIS-05: PDF pp. 142–144](https://archive.org/download/loga13/121.pdf#page=142)
+
+This is an especially useful model of criticism because its explanation refers back to inspectable choices. A reader can understand the difference between a thing that blazes and a place in which blazing occurs, then ask how the distinction contributes to the prayer. Agreement about the grammatical contrast does not force agreement about the degree of excellence. It supplies a shared object of discussion.
+
+The method also guards against treating rare vocabulary as the substance of greatness. Familiar words can enter into relationships that accomplish something particular. Conversely, unusual words can be ornamental without doing necessary work. A reading must show what the arrangement achieves.
+
+We can extend this approach through carefully designed substitutions, provided we distinguish a teaching comparison from a competitive trial. An alternative intended to isolate one grammatical relationship is useful even if it is artistically inferior. It cannot then stand for the strongest human alternative. To investigate the larger claim, we need both controlled explanatory contrasts and complete compositions written to succeed on their own terms.
+
+## Modern scholarship changes the questions we can ask
+
+Modern work offers several routes into this inheritance. Lara Harb’s publisher-provided summary of her chapter on *naẓm* emphasizes discovery: sentence construction can lead a listener to infer contextual meanings through choices such as omission, word order, and definiteness. It connects this account with an aesthetic of wonder. The summary and bibliographic information were inspected for this draft, not the full chapter. This is a scholarly interpretation of a tradition, not a measured claim about every listener’s experience. [HIS-06: Harb, *Arabic Poetics*, chapter 5, pp. 203–251](https://doi.org/10.1017/9781108780483.007)
+
+Mustansir Mir’s chapter “The Structure of the Qur’an: The Inner Dynamic of the Sura” directs attention to a larger scale. Its abstract describes scholarship concerning forms, contextual effects, verbal correspondences, section lengths, and central themes. It examines readings of the surah as a connected composition. Again, the abstract was inspected, not the full chapter. [HIS-07: publisher abstract, pp. 362–373](https://academic.oup.com/edited-volume/34388/chapter/291611299)
+
+For our inquiry, this move in scale is essential. We should investigate whether the relations visible in a phrase also contribute to the movement of a whole surah. A convincing structural proposal needs explicit connections and a reason for its boundaries. A diagram is a representation of a reading. It does not establish that reading merely by looking balanced.
+
+Two further studies identify useful paths for subsequent close work. Muhammad Abdel Haleem’s 1992 article concerns grammatical shifts and their rhetorical purposes; Devin Stewart’s 1990 article concerns *sajʿ*, prosody, and structure. The institutional and journal records verify these publications. Their complete arguments have not been inspected for this chapter, so they are reading priorities rather than authorities enlisted to endorse its conclusion. [HIS-08: Abdel Haleem, article record](https://soas-repository.worktribe.com/output/411099), [HIS-09: Stewart, journal contents](https://www.jstor.org/stable/i393966)
+
+These research directions invite two symmetrical cautions. An unexpected grammatical turn should not be condemned before its context is examined. It should not automatically be praised simply because we can invent a purpose for it. Similarly, identifying a shared literary technique does not decide whether its particular use is ordinary or exceptional. Classification, explanation, and evaluation remain separate tasks.
+
+## What this history asks of us
+
+The positions considered here leave us with a productive set of obligations. Explain what language communicates, investigate the combination of its qualities, distinguish different accounts of inability, defend comparative criteria, and trace local effects into complete compositions. These obligations are our synthesis of the selected debates. They are not a claim that every historical author adopted one common method.
+
+A skeptical reader may ask whether all this analysis simply rationalizes a conclusion inherited in advance. That risk exists for this project and must be addressed through its conduct. Readers should be able to challenge an interpretation, improve a comparator, identify a neglected source, or show that a claimed effect disappears under a better explanation. A favorable thesis is not a license to dismiss such contributions.
+
+The affirmative possibility also deserves to remain visible. If the Qur’an repeatedly integrates expression, meaning, and purpose under demanding comparisons, that would be evidence worth accounting for. What it ultimately supports depends on the strength of those comparisons and the historical and philosophical premises added to them. The present history does not supply that final inference. It gives us better questions with which to pursue it.
+
+*Source note: al-Rummānī and al-Khaṭṭābī were consulted in digital Arabic transcriptions identifying the 1976 third edition of the collection edited by Muḥammad Khalaf Allāh and Muḥammad Zaghlūl Sallām. Displayed pagination is reported; those transcriptions have not been collated with scanned pages for this chapter. Al-Bāqillānī’s passages were inspected in an online transcription whose print edition remains to be confirmed. Al-Jurjānī’s bounded passage was checked against page images. None of these limited inspections is a claim to have read or critically edited the complete works.*

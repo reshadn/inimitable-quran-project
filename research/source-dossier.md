@@ -1,3 +1,5 @@
+> This dossier records the initial 16 September source pass. See [edition 0.2](edition-0.2.md) and the current source catalog for expanded coverage and updated counts.
+
 # Source dossier: Qur’anic language and the argument from inimitability
 
 Research snapshot: 16 September 2026. This is the first source audit for *The Qur’an Examined*, not a completed literature review.

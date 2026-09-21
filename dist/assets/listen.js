@@ -16,10 +16,10 @@
     document.getElementById('transcript').href = '/audio/' + track.script_filename;
     document.getElementById('read-chapter').href = '/read/' + track.slug + '/';
     buttons.forEach((button, i) => button.setAttribute('aria-current', String(i === selected)));
-    history.replaceState(null, '', '#chapter-' + (selected + 1));
+    history.replaceState(null, '', '#' + track.slug);
     status.textContent = 'Ready. Use the play control to listen.';
     if ('mediaSession' in navigator && 'MediaMetadata' in window) {
-      navigator.mediaSession.metadata = new MediaMetadata({title: track.title, artist: 'Inimitable Qur’an Project', album: 'The Qur’an Examined · Draft 0.1'});
+      navigator.mediaSession.metadata = new MediaMetadata({title: track.title, artist: 'Inimitable Qur’an Project', album: 'The Qur’an Examined · Draft 0.2'});
     }
     if (play) audio.play().catch(() => { status.textContent = 'Tap the play control to start this chapter.'; });
   }
@@ -36,6 +36,13 @@
     const actions = {play: () => audio.play().catch(() => {}), pause: () => audio.pause(), seekbackward: () => {audio.currentTime = Math.max(0, audio.currentTime - 15);}, seekforward: () => {audio.currentTime = Math.min(audio.duration || 0, audio.currentTime + 15);}, previoustrack: () => selectTrack(selected - 1, true), nexttrack: () => selectTrack(selected + 1, true)};
     for(const [action, handler] of Object.entries(actions)) {try {navigator.mediaSession.setActionHandler(action, handler);} catch (_) {}}
   }
-  const requested = Number(location.hash.replace('#chapter-', ''));
-  selectTrack(Number.isFinite(requested) && requested >= 1 ? requested - 1 : 0);
+  const legacy = {'chapter-1':'00-an-invitation-to-examine', 'chapter-2':'01-the-head-ablaze', 'chapter-3':'02-time-and-mutual-responsibility'};
+  function requestedTrack() {
+    const hash = location.hash.slice(1);
+    const slug = legacy[hash] || hash;
+    const index = tracks.findIndex(track => track.slug === slug);
+    selectTrack(index >= 0 ? index : 0);
+  }
+  window.addEventListener('hashchange', requestedTrack);
+  requestedTrack();
 })();

@@ -1,0 +1,190 @@
+{
+  "chapter": "A History of the Question",
+  "updated": "2026-09-20",
+  "scope": "Selected arguments, not a complete intellectual history. No new human study results.",
+  "sources": [
+    {
+      "id": "HIS-01",
+      "author": "al-Rummānī",
+      "title": "al-Nukat fī iʿjāz al-Qurʾān",
+      "url": "https://usul.ai/t/nukat-fi-icjaz-quran",
+      "inspected_scope": "Original Arabic opening and concision discussion inspected in the Usul transcription attributed to Shamela/Turath.io. Metadata displays editors Muḥammad Khalaf Allāh and Muḥammad Zaghlūl Sallām, Dār al-Maʿārif, third edition, 1976.",
+      "locator": "Displayed pp.75–79; opening list of grounds and discussion of concision and expansion.",
+      "verification_status": "passage_inspected",
+      "limitations": "Digital transcription not collated against page images; no full-work reading or critical edition claim. Metadata displays inconsistent author death dates, which the chapter does not repeat. No blanket attribution of every form of ṣarfa to the author.",
+      "supports": [
+        "Multiple grounds listed rather than a single aesthetic test.",
+        "Eloquence concerns the manner of communication, not bare intelligibility.",
+        "Appropriate brevity and expansion must be distinguished from omission and waste.",
+        "Brief human excellence acknowledged; sufficient extent matters to assessment."
+      ],
+      "accessed": "2026-09-20",
+      "full_work_read": false,
+      "related_catalog_ids": [
+        "BIB-001"
+      ],
+      "verification_provenance": "AI-assisted source inspection; independent scholarly review pending."
+    },
+    {
+      "id": "HIS-02",
+      "author": "al-Khaṭṭābī",
+      "title": "Bayān iʿjāz al-Qurʾān",
+      "url": "https://usul.ai/ar/t/bayan-icjaz-quran/6",
+      "inspected_scope": "Original Arabic displayed pp.22,24,25,26 read on four separate page routes; metadata identifies same 1976 third edition and editors as HIS-01.",
+      "locator": "Usul routes /4 (p.22), /6 (p.24), /7 (p.25), /8 (p.26).",
+      "verification_status": "passage_inspected",
+      "limitations": "Digital transcription not checked against scanned print. The ṣarfa passage reports a rival explanation, not the author’s endorsement. The often-cited wording/meaning/arrangement passage on p.27 could not be accessed and is not quoted or attributed in this chapter.",
+      "supports": [
+        "Dissatisfaction with explanations that cannot specify the cause of literary excellence.",
+        "Combination of grandeur and sweetness described as an excellence.",
+        "Reported ṣarfa account places extraordinary character in prevention of an otherwise possible response."
+      ],
+      "accessed": "2026-09-20",
+      "full_work_read": false,
+      "related_urls": [
+        "https://usul.ai/ar/t/bayan-icjaz-quran/4",
+        "https://usul.ai/ar/t/bayan-icjaz-quran/7",
+        "https://usul.ai/ar/t/bayan-icjaz-quran/8"
+      ],
+      "related_catalog_ids": [
+        "BIB-002"
+      ],
+      "verification_provenance": "AI-assisted source inspection; independent scholarly review pending."
+    },
+    {
+      "id": "HIS-03",
+      "author": "al-Bāqillānī",
+      "title": "Iʿjāz al-Qurʾān, chapter on the indication of inimitability",
+      "url": "https://islamweb.net/ar/library/content/240/3/فصل-في-بيان-وجه-الدلالة-على-أن-القرآن-معجز",
+      "inspected_scope": "Original Arabic transcription of the objections and responses around ṣarfa inspected.",
+      "locator": "Displayed pp.29–31, from the objection beginning فإن قيل فلم زعمتم through the prevention objection.",
+      "verification_status": "passage_inspected",
+      "limitations": "Underlying print edition remains unidentified. Historical claims elsewhere on the page were not independently verified and are not repeated as facts.",
+      "supports": [
+        "Rejects moving from capacity for a fine short expression to capacity for a complete composition; argues that prevention, if the explanation, would be the miracle rather than discourse."
+      ],
+      "accessed": "2026-09-20",
+      "full_work_read": false,
+      "related_catalog_ids": [
+        "BIB-003"
+      ],
+      "verification_provenance": "AI-assisted source inspection; independent scholarly review pending."
+    },
+    {
+      "id": "HIS-04",
+      "author": "al-Bāqillānī",
+      "title": "Iʿjāz al-Qurʾān, criticism of Imruʾ al-Qays",
+      "url": "https://www.islamweb.net/amp/ar/library/content/240/38/باب",
+      "inspected_scope": "Original Arabic comparison, acknowledgment of defenders’ praise and criticism of place names inspected.",
+      "locator": "Displayed pp.160–166, particularly pp.160–161.",
+      "verification_status": "passage_inspected",
+      "limitations": "Underlying print edition not confirmed. The chapter reports al-Bāqillānī’s judgments, not verified defects in poetry. Counterreading of geographic specificity is this project’s proposal, not an attributed scholarly finding.",
+      "supports": [
+        "Actual comparison with celebrated poetry.",
+        "Criticism of accumulation of place names.",
+        "Need to distinguish a historical critic’s verdict from independent comparative assessment."
+      ],
+      "accessed": "2026-09-20",
+      "full_work_read": false,
+      "related_catalog_ids": [
+        "BIB-003"
+      ],
+      "verification_provenance": "AI-assisted source inspection; independent scholarly review pending."
+    },
+    {
+      "id": "HIS-05",
+      "author": "ʿAbd al-Qāhir al-Jurjānī",
+      "title": "Dalāʾil al-iʿjāz",
+      "url": "https://archive.org/download/loga13/121.pdf#page=142",
+      "inspected_scope": "Original PDF downloaded and page images142,143,144 rendered and visually inspected in this run; printed pp.100–102 paragraphs91–93 confirmed. Edition statement relies on the earlier project scan inspection recorded in sources-19-4.json C19-03.",
+      "locator": "Maḥmūd Muḥammad Shākir edition, third edition 1992; printed pp.100–102, §§91–93; PDF one-based pp.142–144.",
+      "verification_status": "passage_inspected",
+      "limitations": "Bounded passage only; no manuscript-history or complete-work audit. Perceived spread is the author’s literary analysis, not a measured reader response.",
+      "supports": [
+        "The merit of 19:4 is not explained by naming the metaphor alone.",
+        "Grammatical attribution to the head changes the effect compared with gray hair as subject.",
+        "Pervasive spread and the definite noun feature in the analysis."
+      ],
+      "accessed": "2026-09-20",
+      "full_work_read": false,
+      "related_catalog_ids": [
+        "BIB-004"
+      ],
+      "file_sha256": "75f0ba2c8bfed3e8a58e1eb8fd07883f08cf327ce41b52bb03735bf81429b983",
+      "verification_provenance": "AI-assisted source inspection; independent scholarly review pending."
+    },
+    {
+      "id": "HIS-06",
+      "author": "Lara Harb",
+      "title": "Naẓm, Wonder, and the Inimitability of the Quran, in Arabic Poetics",
+      "url": "https://doi.org/10.1017/9781108780483.007",
+      "inspected_scope": "Cambridge publisher chapter summary and publication record inspected.",
+      "locator": "Chapter5, pp.203–251, 2020.",
+      "verification_status": "catalog_confirmed",
+      "limitations": "Summary only, not full chapter; no claim the author endorses divine origin or reports an experimental finding.",
+      "supports": [
+        "Chapter summary connects syntactic choices, implicit contextual meaning, discovery, and wonder."
+      ],
+      "accessed": "2026-09-20",
+      "full_work_read": false,
+      "related_catalog_ids": [
+        "BIB-027"
+      ],
+      "doi": "10.1017/9781108780483.007",
+      "verification_provenance": "AI-assisted source inspection; independent scholarly review pending."
+    },
+    {
+      "id": "HIS-07",
+      "author": "Mustansir Mir",
+      "title": "The Structure of the Qur’an: The Inner Dynamic of the Sura",
+      "url": "https://academic.oup.com/edited-volume/34388/chapter/291611299",
+      "inspected_scope": "Oxford publisher chapter abstract and bibliographic record inspected; publisher explicitly indicated no access to full chapter.",
+      "locator": "The Oxford Handbook of Qur’anic Studies, chapter22, pp.362–373, 2020.",
+      "verification_status": "catalog_confirmed",
+      "limitations": "Abstract and metadata only. Specific structures, claims, or conclusions from the full chapter are not presented.",
+      "supports": [
+        "Abstract identifies contextual effects, verbal correspondences, central themes and section lengths in structural study."
+      ],
+      "accessed": "2026-09-20",
+      "full_work_read": false,
+      "doi": "10.1093/oxfordhb/9780199698646.013.17",
+      "verification_provenance": "AI-assisted source inspection; independent scholarly review pending."
+    },
+    {
+      "id": "HIS-08",
+      "author": "Muhammad Abdel Haleem",
+      "title": "Grammatical Shift for Rhetorical Purposes: Iltifāt and Related Features in the Qur’ān",
+      "url": "https://soas-repository.worktribe.com/output/411099",
+      "inspected_scope": "SOAS institutional repository metadata inspected through indexed retrieval; direct open and full PDF retrieval via web failed.",
+      "locator": "Bulletin of the School of Oriental and African Studies55(3),1992,pp.407–432.",
+      "verification_status": "catalog_confirmed",
+      "limitations": "Publication and subject verified; full article not read. Included only as a subsequent reading priority, not as proof of a particular analysis.",
+      "supports": [
+        "Verified publication on grammatical shifts and rhetorical purposes."
+      ],
+      "accessed": "2026-09-20",
+      "full_work_read": false,
+      "doi": "10.1017/S0041977X00003621",
+      "verification_provenance": "AI-assisted source inspection; independent scholarly review pending."
+    },
+    {
+      "id": "HIS-09",
+      "author": "Devin J. Stewart",
+      "title": "Sajʿ in the Qurʾān: Prosody and Structure",
+      "url": "https://www.jstor.org/stable/i393966",
+      "inspected_scope": "Journal issue table of contents inspected through indexed retrieval.",
+      "locator": "Journal of Arabic Literature21(2),1990,pp.101–139; article stable URL https://www.jstor.org/stable/4183221.",
+      "verification_status": "catalog_confirmed",
+      "limitations": "Title, author, journal and page range verified; full article not read. No detailed genre classification or theological position attributed to the author.",
+      "supports": [
+        "Verified publication as priority for later work on prosody and literary classification."
+      ],
+      "accessed": "2026-09-20",
+      "full_work_read": false,
+      "related_catalog_ids": [
+        "BIB-037"
+      ],
+      "verification_provenance": "AI-assisted source inspection; independent scholarly review pending."
+    }
+  ]
+}

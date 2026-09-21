@@ -28,9 +28,12 @@ def main():
             if not dest.exists(): failures.append(f'{source.relative_to(DIST)} -> {target}')
     assert not failures, failures
     meta=json.loads((DIST/'audio/metadata.json').read_text())
-    assert len(list((DIST/'audio').glob('*.m4a')))==3
+    edition=json.loads((ROOT/'research/reading-order.json').read_text())
+    catalog=json.loads((ROOT/'research/source-catalog.json').read_text())
+    assert len(list((DIST/'audio').glob('*.m4a')))==len(meta['chapters'])
+    assert {c['slug'] for c in meta['chapters']}=={c['slug'] for c in edition['chapters']}, 'Every published chapter needs its promised narration'
     assert 'Samantha' not in json.dumps(meta), 'Private voice metadata must not be published'
-    routes=['/','/read/','/listen/','/project/','/contribute/','/licenses/','/research/'] + ['/read/'+c['slug']+'/' for c in meta['chapters']]
+    routes=['/','/read/','/listen/','/project/','/contribute/','/licenses/','/research/'] + ['/read/'+c['slug']+'/' for c in edition['chapters']]
     errors=[]
     with sync_playwright() as p:
         browser=p.chromium.launch()
@@ -49,16 +52,25 @@ def main():
             assert audio.evaluate('(a)=>a.duration')>100
             page.locator('#speed').select_option('1.3')
             assert audio.evaluate('(a)=>a.playbackRate')==1.3
-            page.locator('.track').nth(2).click()
+            page.locator('.track[data-slug="02-time-and-mutual-responsibility"]').click()
             page.wait_for_function('document.querySelector("audio").currentTime > 0')
             assert 'Time and Mutual' in page.locator('#track-title').inner_text()
             audio.evaluate('(a)=>a.currentTime=600')
             page.wait_for_function('document.querySelector("audio").currentTime > 600.2 && !document.querySelector("audio").seeking',timeout=25000)
             audio.evaluate('(a)=>a.pause()')
+            page.goto(BASE+'/listen/#06-counting-without-overclaiming')
+            page.wait_for_function('document.querySelector("audio").readyState >= 1')
+            assert 'Counting Without Overclaiming' in page.locator('#track-title').inner_text()
+            page.locator('.track[data-slug="06-counting-without-overclaiming"]').click()
+            page.wait_for_function('document.querySelector("audio").currentTime > 0')
+            audio.evaluate('(a)=>a.currentTime=180')
+            page.wait_for_function('document.querySelector("audio").currentTime > 180.2 && !document.querySelector("audio").seeking',timeout=25000)
+            audio.evaluate('(a)=>a.pause()')
             page.goto(BASE+'/research/')
             page.locator('[data-panel="sources"]').click()
             page.locator('#status-filter').select_option('discovery_lead')
-            assert page.locator('#source-list .source-card').count()==28
+            assert page.locator('#source-list .source-card').count()==catalog['counts']['discovery_lead']
+            assert page.locator('#evidence-list .source-card').count()==38
             page.locator('[data-panel="lab"]').click()
             page.locator('#surah-select').select_option('103')
             assert '14' in page.locator('#surah-details').inner_text()

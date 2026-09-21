@@ -197,6 +197,100 @@
         "research/methods-and-studies.md"
       ],
       "limit": "Do not claim methodological invention until a literature and expert review supports originality."
+    },
+    {
+      "id": "CH-OBS-01",
+      "level": "observation",
+      "status": "passage_inspected",
+      "claim": "The received challenge passages specify a surah, ten surahs, the Qur’an, and discourse in different locations.",
+      "evidence": [
+        "CH-01",
+        "CH-02",
+        "CH-03",
+        "CH-04",
+        "CH-05"
+      ],
+      "limit": "These formulations do not by themselves establish a chronology of proclamation or that the challenge has been impossible to meet."
+    },
+    {
+      "id": "CH-INT-01",
+      "level": "functional interpretation",
+      "status": "classical_position_reported",
+      "claim": "Al-Ṭabarī records alternative antecedents at 2:23 and prefers reference to the Qur’an.",
+      "evidence": [
+        "CH-06"
+      ],
+      "limit": "This reports the inspected commentary and does not establish unanimous interpretation."
+    },
+    {
+      "id": "D-INF-01",
+      "level": "philosophical inference",
+      "status": "proposed_argument_map",
+      "claim": "A finite comparison does not deductively establish universal human incapacity; a further inference needs stated premises.",
+      "evidence": [
+        "D-01",
+        "D-02",
+        "D-03",
+        "chapters/04-the-distance-between-claims.md"
+      ],
+      "limit": "This chapter proposes a route for cumulative reasoning; it has not completed the explanatory or historical case."
+    },
+    {
+      "id": "HIS-OBS-01",
+      "level": "observation",
+      "status": "passage_inspected",
+      "claim": "Selected classical discussions distinguish literary properties from divine prevention and debate the location of the miracle.",
+      "evidence": [
+        "HIS-01",
+        "HIS-02",
+        "HIS-03"
+      ],
+      "limit": "The inspected positions do not represent every form of ṣarfa or every classical author."
+    },
+    {
+      "id": "HIS-COMP-01",
+      "level": "comparison",
+      "status": "classical_judgment_reported",
+      "claim": "Al-Bāqillānī critiques celebrated poetry as part of his argument.",
+      "evidence": [
+        "HIS-04"
+      ],
+      "limit": "The existence of his criticism does not independently establish that the poetry fails under fair criteria."
+    },
+    {
+      "id": "CNT-OBS-01",
+      "level": "observation",
+      "status": "reproduced_descriptive_baseline",
+      "claim": "The unchanged pinned corpus yields 77433 orthographic tokens under the declared rule.",
+      "evidence": [
+        "CNT-01",
+        "data/manifest.json",
+        "analysis/summary.json"
+      ],
+      "limit": "This is a fixed-file count, not a measure of literary superiority or revelation."
+    },
+    {
+      "id": "CNT-METHOD-01",
+      "level": "comparison",
+      "status": "proposed_study",
+      "claim": "Matched expression changes, reader/passage variation, and separate confirmation could test specific linguistic predictions.",
+      "evidence": [
+        "CNT-02",
+        "CNT-03",
+        "CNT-04"
+      ],
+      "limit": "No participant study or confirmatory comparison has been conducted. The illustrated 40 out of 50 readers is invented arithmetic."
+    },
+    {
+      "id": "CNT-INF-01",
+      "level": "philosophical inference",
+      "status": "proposed_methodological_limit",
+      "claim": "An unspecified revelation model supplies no numerical likelihood for a Bayes factor.",
+      "evidence": [
+        "CNT-05",
+        "chapters/06-counting-without-overclaiming.md"
+      ],
+      "limit": "The general statistical source does not itself evaluate revelation; this is the project’s application and requires philosophical review."
     }
   ]
 }

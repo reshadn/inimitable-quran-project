@@ -16,19 +16,19 @@ Distinctiveness does not automatically establish excellence. Excellence does not
 
 ## What is available now
 
-The first research edition, dated 16 September 2026, contains approximately 6,000 words across an opening essay and two sample chapters, with sources and working translations. It is a working draft, not a completed proof or finished book.
+The expanded research edition, dated 20 September 2026, contains approximately 14,600 words across an opening essay and six chapters, with sources and working translations. Four new chapters examine the challenge passages, the distance between the central claims, selected classical theories, and responsible statistical analysis. It is a working draft, not a completed proof or finished book.
 
-The source catalog contains 65 candidate works and resources:
+The source catalog contains 71 bibliography records for candidate works and resources:
 
-- 9 bounded passage or documentation inspections.
-- 28 catalog confirmations.
-- 28 discovery leads awaiting verification.
+- 16 bounded passage or documentation inspections.
+- 29 catalog or abstract confirmations.
+- 26 discovery leads awaiting verification.
 
-No complete book or article was read in this first research pass. A confirmed title is not a verified argument, and an author's inclusion does not imply endorsement of this project's conclusion.
+No complete book or article is claimed as read in the recorded research passes. A confirmed title is not a verified argument, and an author's inclusion does not imply endorsement of this project's conclusion.
 
 A reproducible computational pilot describes the selected text and its counting rules. It does not measure divinity or establish literary superiority. Independent Arabic review, stronger comparisons, fuller source reading, and original human studies remain ahead. The proposed expert, reader, and recitation studies have not been run.
 
-The first draft and initial source checks were produced with AI assistance. They have not received independent human scholarly review.
+The manuscript drafts and source checks were produced with AI assistance. They have not received independent human scholarly review.
 
 ## Open research and community review
 

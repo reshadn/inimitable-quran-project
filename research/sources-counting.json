@@ -1,0 +1,101 @@
+{
+  "chapter": "Counting Without Overclaiming",
+  "status": "research draft; independent methodological review pending",
+  "checked_date": "2026-09-20",
+  "scope_note": "One existing project calculation and four external methodological sources. Bounded passages were inspected. No full article review, human study, superiority test, or probability of revelation is claimed. Methodological sources do not endorse this project's theological argument.",
+  "sources": [
+    {
+      "id": "CNT-01",
+      "author": "Inimitable Qur'an Project; source text from Tanzil",
+      "title": "Descriptive corpus inventory, summary and provenance manifest",
+      "url": "https://github.com/reshadn/inimitable-quran-project/blob/main/analysis/summary.json",
+      "additional_urls": [
+        "https://github.com/reshadn/inimitable-quran-project/blob/main/data/manifest.json",
+        "https://github.com/reshadn/inimitable-quran-project/blob/main/scripts/analyze_corpus.py"
+      ],
+      "inspected_scope": "Read the current website checkout's analysis/summary.json, analysis/pilot-report.md, data/manifest.json, and methods-and-studies.md. The summary records 114 surahs, 6236 numbered verses, 77433 orthographic tokens, 81812 whitespace fields, median 10, mean 12.417094291212315, Q1 6, Q3 16, minimum 1, maximum 128, and al-Asr counts [1,4,9].",
+      "locator": "summary fields; pilot-report sections Interpretation and Reproduction and scope; manifest SHA-256 8c5aeae20363a98f6963720d29fce040ca8b56a8e75f8b564c257fce7f6d0417",
+      "verification_status": "passage_inspected",
+      "limitations": "One pinned Hafs representation and declared token rule. Fixed-file enumeration, not morphological count, sample estimate, comparative superiority, or inference about origin. Current public links reference main and can change; source fingerprint identifies raw input.",
+      "supports": [
+        "Exact descriptive baseline",
+        "Token definition and basmala policy",
+        "Finite-file description versus sampling error",
+        "Al-Asr final verse has 9 of 14 tokens under this rule"
+      ],
+      "inspection_label": "existing local project results and provenance inspected; calculation not rerun by this chapter author",
+      "verification_provenance": "AI-assisted source inspection; independent scholarly review pending."
+    },
+    {
+      "id": "CNT-02",
+      "author": "Dale J. Barr; Roger Levy; Christoph Scheepers; Harry J. Tily",
+      "title": "Random effects structure for confirmatory hypothesis testing: Keep it maximal",
+      "url": "https://www.mit.edu/~rplevy/papers/barr-etal-2013-jml.pdf",
+      "doi": "10.1016/j.jml.2012.11.001",
+      "year": 2013,
+      "inspected_scope": "Author-hosted PDF title, abstract, and introduction explaining clustered observations, reader/participant and item variation, crossed random effects, and design-based specification. Also inspected pp. 258-259 discussion of random intercepts and random slopes. Did not audit the complete simulation results or reproduce them.",
+      "locator": "Journal of Memory and Language 68, pp. 255-259; PDF pp. 1-5",
+      "verification_status": "passage_inspected",
+      "limitations": "The paper primarily addresses linear mixed models. It does not validate this project's as-yet-unbuilt ordinal instrument or determine its eventual random-effects structure. Its maximal-model recommendation is not presented as an unqualified rule for every dataset.",
+      "supports": [
+        "Repeated responses can cluster by participants and linguistic materials",
+        "Generalization depends on modeling variation across both readers and passages",
+        "Variation in manipulation effects may require random slopes"
+      ],
+      "inspection_label": "bounded primary article passages inspected",
+      "verification_provenance": "AI-assisted source inspection; independent scholarly review pending."
+    },
+    {
+      "id": "CNT-03",
+      "author": "Andrew Gelman; Eric Loken",
+      "title": "The garden of forking paths: Why multiple comparisons can be a problem, even when there is no fishing expedition or p-hacking and the research hypothesis was posited ahead of time",
+      "url": "https://www.stat.columbia.edu/~gelman/research/unpublished/p_hacking.pdf",
+      "year": 2013,
+      "inspected_scope": "Author-hosted paper dated 14 November 2013; abstract and Sections 1.1-1.2, including distinction between a fixed analysis, a prespecified analysis choice, data-dependent choices, and explicit fishing.",
+      "locator": "pp. 1-3",
+      "verification_status": "passage_inspected",
+      "limitations": "Methodological argument, not a study of Quranic numerical claims. Chapter's application to spelling, tokenization, and boundary choice is the project's own proposed application. The paper is cited as the dated author-hosted manuscript, not assigned an invented journal citation.",
+      "supports": [
+        "Data-dependent analytical paths can create a multiplicity problem even when one final analysis is performed",
+        "Sincere analysis does not remove selection effects"
+      ],
+      "inspection_label": "bounded primary manuscript passages inspected",
+      "verification_provenance": "AI-assisted source inspection; independent scholarly review pending."
+    },
+    {
+      "id": "CNT-04",
+      "author": "Center for Open Science",
+      "title": "Preregistration",
+      "url": "https://www.cos.io/initiatives/prereg",
+      "inspected_scope": "Organizational guidance sections Hold out data-sets or split samples; reporting and interpreting planned results; unplanned analyses; existing-data preregistration; changing preregistrations; and conditional analysis plans.",
+      "locator": "FAQ headings Do I need to report all results from my pre-analysis plans?; Does preregistration mean that I can't do any unplanned analyses?; Can I use a pre-existing data set for my preregistration?; Does preregistration mean that I cannot test appropriateness of model assumptions and adjust analysis accordingly?",
+      "verification_status": "passage_inspected",
+      "limitations": "Guidance, not independent validation of this project. The website includes historical campaign material, which is not used here as a current funding or eligibility claim. No registration has been made by this chapter author.",
+      "supports": [
+        "Separate exploratory work from confirmation",
+        "Report planned analyses and changes transparently",
+        "Account for prior exposure to existing data"
+      ],
+      "inspection_label": "bounded first-party methodological guidance inspected",
+      "verification_provenance": "AI-assisted source inspection; independent scholarly review pending."
+    },
+    {
+      "id": "CNT-05",
+      "author": "American Statistical Association",
+      "title": "American Statistical Association Releases Statement on Statistical Significance and P-Values",
+      "url": "https://www.amstat.org/asa/files/pdfs/p-valuestatement.pdf",
+      "year": 2016,
+      "inspected_scope": "Official release dated 7 March 2016, introduction and six principles reproduced on PDF page 2. This is the ASA's official summary of its statement, not a claim to have inspected all accompanying journal commentaries.",
+      "locator": "PDF pp. 1-2; especially numbered principles 1-6 on p. 2",
+      "verification_status": "passage_inspected",
+      "limitations": "Supports general interpretation of p-values. It does not discuss or settle revelation, divine probabilities, literary excellence, or this project's proposed experiments.",
+      "supports": [
+        "P-value does not give probability that a hypothesis is true",
+        "A threshold should not replace reasoning",
+        "Statistical significance does not measure effect size or importance"
+      ],
+      "inspection_label": "primary organizational statement summary inspected",
+      "verification_provenance": "AI-assisted source inspection; independent scholarly review pending."
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "schema_version": "1.0",
+  "chapter_title": "The Challenge",
+  "compiled_on": "2026-09-20",
+  "verification_policy": "Verification is limited to the linked Arabic passages inspected online. No complete commentary, critical edition, manuscript collation, or historical report authentication is claimed. English chapter translations are original working renderings and require independent review.",
+  "sources": [
+    {
+      "id": "CH-01",
+      "author": "Qur’an",
+      "title": "Qur’an 2:23–24",
+      "url": "https://quran.com/al-baqarah/23-24",
+      "locator": "Surah al-Baqarah, verses 23–24",
+      "inspected_scope": "Both complete displayed Arabic verses and their word-separated display. The site's attributed English rendering was inspected for orientation but is not reproduced as the chapter's translation.",
+      "verification_status": "passage_inspected",
+      "accessed_on": "2026-09-20",
+      "limitations": [
+        "Independent Arabic and translation review pending",
+        "This online display does not establish a chronology or manuscript history",
+        "The wording establishes the text's challenge and warning, not independently measured universal incapacity"
+      ],
+      "supports": [
+        "A surah is demanded in response to doubt",
+        "The phrase min mithlihi occurs in 2:23",
+        "Shuhadaakum are invited apart from God",
+        "The negative future statement and warning occur in 2:24"
+      ],
+      "inspection_label": "online_primary_passage_inspected",
+      "verification_provenance": "AI-assisted source inspection; independent scholarly review pending."
+    },
+    {
+      "id": "CH-02",
+      "author": "Qur’an",
+      "title": "Qur’an 10:37–38",
+      "url": "https://quran.com/yunus/37-38",
+      "locator": "Surah Yunus, verses 37–38",
+      "inspected_scope": "Complete Arabic wording of both verses, including the claims about preceding revelation/scripture, fabrication accusation, one-surah demand, and assistance.",
+      "verification_status": "passage_inspected",
+      "accessed_on": "2026-09-20",
+      "limitations": [
+        "Original working English rendering requires review",
+        "No complete exegesis of tasdiq or tafsil is claimed",
+        "The passage's origin claim is distinguished from proof of that claim"
+      ],
+      "supports": [
+        "Context includes religious and epistemic claims",
+        "Verse 38 requests a surah mithlihi",
+        "Opponents may call those they can apart from God"
+      ],
+      "inspection_label": "online_primary_passage_inspected",
+      "verification_provenance": "AI-assisted source inspection; independent scholarly review pending."
+    },
+    {
+      "id": "CH-03",
+      "author": "Qur’an",
+      "title": "Qur’an 11:13–14",
+      "url": "https://quran.com/hud/13-14",
+      "locator": "Surah Hud, verses 13–14",
+      "inspected_scope": "Both Arabic verses, especially ten surahs, mithlihi muftarayat, assistance, and the inference to divine knowledge and submission in verse 14.",
+      "verification_status": "passage_inspected",
+      "accessed_on": "2026-09-20",
+      "limitations": [
+        "The chapter does not resolve every pronoun/addressee interpretation in verse 14",
+        "No chronological sequence relative to the one-surah demand is established",
+        "No contemporary response study was performed"
+      ],
+      "supports": [
+        "The text specifies ten surahs",
+        "The adjective muftarayat occurs",
+        "Verse 14 explicitly connects response failure to theological acknowledgment"
+      ],
+      "inspection_label": "online_primary_passage_inspected",
+      "verification_provenance": "AI-assisted source inspection; independent scholarly review pending."
+    },
+    {
+      "id": "CH-04",
+      "author": "Qur’an",
+      "title": "Qur’an 17:88",
+      "url": "https://quran.com/al-isra/88",
+      "locator": "Surah al-Isra, verse 88",
+      "inspected_scope": "Complete Arabic verse, including humans, jinn, cooperation, and denial that they bring the Qur’an's like.",
+      "verification_status": "passage_inspected",
+      "accessed_on": "2026-09-20",
+      "limitations": [
+        "Original working translation requires independent review",
+        "The scope includes jinn and exceeds what a human literary experiment can directly test",
+        "This is the textual claim, not an empirical measurement of every possible composition"
+      ],
+      "supports": [
+        "The challenge encompasses humans and jinn",
+        "Cooperation is expressly included",
+        "The asserted inability exceeds failure by one individual"
+      ],
+      "inspection_label": "online_primary_passage_inspected",
+      "verification_provenance": "AI-assisted source inspection; independent scholarly review pending."
+    },
+    {
+      "id": "CH-05",
+      "author": "Qur’an",
+      "title": "Qur’an 52:33–34",
+      "url": "https://quran.com/at-tur/33-34",
+      "locator": "Surah al-Tur, verses 33–34",
+      "inspected_scope": "Complete Arabic verses, with the accusation in 33 and bi-hadithin mithlihi in 34.",
+      "verification_status": "passage_inspected",
+      "accessed_on": "2026-09-20",
+      "limitations": [
+        "Hadith is provisionally rendered discourse in context",
+        "The chapter does not infer a fixed word count or sentence count from this noun",
+        "Translation and Arabic proofreading remain pending"
+      ],
+      "supports": [
+        "Demand follows accusation of invention",
+        "The requested unit is expressed as hadith rather than a numerical count of surahs"
+      ],
+      "inspection_label": "online_primary_passage_inspected",
+      "verification_provenance": "AI-assisted source inspection; independent scholarly review pending."
+    },
+    {
+      "id": "CH-06",
+      "author": "Abu Ja‘far Muhammad ibn Jarir al-Tabari",
+      "title": "Jami‘ al-bayan, commentary on Qur’an 2:23",
+      "url": "https://quran.com/al-baqarah/23/tafsirs/ar-tafsir-al-tabari",
+      "locator": "Commentary under fa’tu bi-suratin min mithlihi: reports numbered 491–495 in the displayed transcription; paragraphs beginning wa-qad qala qawmun akharun and qala Abu Ja‘far: wa-l-ta’wil al-awwal; subsequent Arabic-language explanation; discussion of shuhadaakum, displayed reports 496–500",
+      "inspected_scope": "Online Arabic commentary text concerning the pronoun's referent, preference for the Qur’an referent using 10:38, shared Arabic linguistic resources, and interpretations of supporters/witnesses. Printed page markers in the transcription were not collated against a scan.",
+      "verification_status": "passage_inspected",
+      "accessed_on": "2026-09-20",
+      "limitations": [
+        "Digital transcription, not a critically collated print edition",
+        "Transmitted reports are described as recorded by al-Tabari, not independently authenticated",
+        "The commentator's account of opponents' incapacity is not adopted as a completed modern historical investigation",
+        "No claim that the full work has been read"
+      ],
+      "supports": [
+        "Al-Tabari records Qur’an and Muhammad as proposed pronoun referents",
+        "He prefers the first and adduces the parallel 10:38",
+        "He emphasizes that the challenge is in the addressees' Arabic",
+        "He records assistance and testimony explanations for shuhadaakum"
+      ],
+      "inspection_label": "online_classical_commentary_passage_inspected",
+      "verification_provenance": "AI-assisted source inspection; independent scholarly review pending."
+    },
+    {
+      "id": "CH-07",
+      "author": "Abu ‘Abd Allah Muhammad ibn Ahmad al-Qurtubi",
+      "title": "Al-Jami‘ li-ahkam al-Qur’an, commentary on Qur’an 11:13",
+      "url": "https://quran.ksu.edu.sa/tafseer/qortobi/sura11-aya13.html",
+      "locator": "Surah Hud, verse 13; paragraph beginning am yaquluna iftarahu, especially fa-in qalu: iftaraytahu and fa-l-ya’tu bi-mithlihi muftaran bi-za‘mihim",
+      "inspected_scope": "Full short Arabic commentary displayed by the King Saud University Quran Project for verse 13.",
+      "verification_status": "passage_inspected",
+      "accessed_on": "2026-09-20",
+      "limitations": [
+        "Print edition and manuscript variants not checked",
+        "No full-work review claimed",
+        "Its interpretation is attributed, not asserted to be unanimous"
+      ],
+      "supports": [
+        "Al-Qurtubi reads the invented composition challenge against the opponents' accusation of fabrication",
+        "The demand invites the opponents to produce a counterpart on their own stated account"
+      ],
+      "inspection_label": "online_classical_commentary_passage_inspected",
+      "verification_provenance": "AI-assisted source inspection; independent scholarly review pending."
+    },
+    {
+      "id": "CH-08",
+      "author": "Abu ‘Abd Allah Muhammad ibn Ahmad al-Qurtubi",
+      "title": "Al-Jami‘ li-ahkam al-Qur’an, commentary on Qur’an 52:34",
+      "url": "https://quran.ksu.edu.sa/tafseer/qortobi/sura52-aya34.html",
+      "locator": "Surah al-Tur, verse 34; opening explanation of fa-l-ya’tu bi-hadithin mithlihi",
+      "inspected_scope": "Full short displayed Arabic commentary, with the chapter using only the opening explanation about producing something resembling the Qur’an from themselves. The page also reports a reading attributed to al-Jahdari, which the chapter does not analyze.",
+      "verification_status": "passage_inspected",
+      "accessed_on": "2026-09-20",
+      "limitations": [
+        "Reported reading variants were not independently authenticated or classified",
+        "Print edition not collated",
+        "No full-work review claimed"
+      ],
+      "supports": [
+        "Al-Qurtubi connects hadith here to production of something resembling the Qur’an",
+        "The fabrication accusation supplies the interpretive setting"
+      ],
+      "inspection_label": "online_classical_commentary_passage_inspected",
+      "verification_provenance": "AI-assisted source inspection; independent scholarly review pending."
+    },
+    {
+      "id": "CH-09",
+      "author": "Isma‘il ibn ‘Umar Ibn Kathir",
+      "title": "Tafsir al-Qur’an al-‘azim, commentary on Qur’an 2:23",
+      "url": "https://quran.ksu.edu.sa/tafseer/katheer/sura2-aya23.html",
+      "locator": "Paragraph beginning wa-qad tahaddahum Allahu ta‘ala bi-hadha fi ghayri mawdi‘in min al-Qur’an",
+      "inspected_scope": "Displayed commentary on 2:23, especially the connected citations of 17:88, 11:13, and 10:37–38. The chapter uses this only as evidence of a classical cross-reading practice.",
+      "verification_status": "passage_inspected",
+      "accessed_on": "2026-09-20",
+      "limitations": [
+        "The commentator's chronology and claims of incapacity were not independently established",
+        "The chapter does not use this passage to establish a detailed historical sequence",
+        "Print edition not collated; full work not inspected"
+      ],
+      "supports": [
+        "Ibn Kathir brings several challenge passages into one explanatory discussion"
+      ],
+      "inspection_label": "online_classical_commentary_passage_inspected",
+      "verification_provenance": "AI-assisted source inspection; independent scholarly review pending."
+    }
+  ]
+}

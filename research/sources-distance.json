@@ -1,0 +1,11 @@
+{
+  "schema_version":"1.0",
+  "chapter":"chapters/04-the-distance-between-claims.md",
+  "verified_on":"2026-09-20",
+  "status":"AI-assisted bounded source inspection; independent review pending",
+  "sources":[
+    {"id":"D-01","author":"Qur’an","title":"Surah al-Baqarah 2:23","url":"https://quran.com/2/23","locator":"2:23, Arabic text","verification_status":"passage_inspected","inspected_scope":"Digital Arabic verse and displayed context inspected on Quran.com. No hosted translation reproduced in the chapter.","supports":["The textual challenge concerns producing a comparable surah."],"limitations":["This establishes what the verse claims, not that the challenge is impossible to meet.","Printed editions and manuscript witnesses not independently collated."]},
+    {"id":"D-02","author":"Qur’an","title":"Surah al-Isra 17:88","url":"https://quran.com/17/88","locator":"17:88, Arabic text","verification_status":"passage_inspected","inspected_scope":"Digital Arabic verse and displayed context inspected on Quran.com.","supports":["The verse denies equivalent production by the combined efforts of humans and jinn."],"limitations":["No empirical inference to universal incapacity follows from quoting the verse alone."]},
+    {"id":"D-03","author":"Igor Douven","title":"Abduction","url":"https://plato.stanford.edu/entries/abduction/","locator":"Introduction and section 2, Explicating Abduction; substantive revision 18 June 2025","verification_status":"passage_inspected","inspected_scope":"Publisher-indexed text of the introduction and section 2 inspected after direct retrieval timed out. Read the distinction between explanatory inference and deductive entailment, controversies over its justification, and incomplete candidate sets. No complete-entry reading claimed.","supports":["Inference to the best explanation is discussed as abduction and its normative status is contested.","Preference among considered explanations need not identify the best of all possible explanations."],"limitations":["The source does not evaluate the Qur’an or endorse this project's application.","This chapter's affirmative argument map is original proposed analysis, not a result established by the cited entry."]}
+  ]
+}

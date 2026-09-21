@@ -1,3 +1,7 @@
+## Current public edition
+
+See [edition 0.2](edition-0.2.md) for the current manuscript, source counts, and limitations. The notes below preserve the first research package as a historical record. They are not the current publication inventory.
+
 # Status and next work
 
 16 September 2026 · Milestone 1

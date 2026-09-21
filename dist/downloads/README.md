@@ -9,7 +9,7 @@ A book and open research program examining Qur’anic language, inimitability, a
 
 ## Release status
 
-This is research draft 0.1, not a completed book or established demonstration of divine origin. The initial manuscript and source checks were developed with AI assistance. Independent human scholarly review is pending. The release contains an opening essay and two sample chapters, approximately 6,000 words, plus a 65-record source catalog. Nine entries have bounded passage/documentation inspection, 28 have bibliographic confirmation, and 28 remain discovery leads. No full work was read in this first pass. Inclusion is not endorsement.
+This is research draft 0.2, not a completed book or established demonstration of divine origin. The initial manuscript and source checks were developed with AI assistance. Independent human scholarly review is pending. The release contains an opening essay and six chapters, approximately 14,600 words, plus a 71-record source catalog. Sixteen entries have bounded passage/documentation inspection, 29 have bibliographic or abstract confirmation, and 26 remain discovery leads. No complete work is claimed as read. Inclusion is not endorsement.
 
 The corpus pilot is descriptive. No reader, expert, or recitation study has been conducted. Literary distinctiveness, excellence, universal human incapacity, and revelation are separate claims. There is no numerical score of divinity.
 
@@ -19,7 +19,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). Arabic specialists, historians, literary
 
 ## Repository map
 
-- `chapters/`: manuscript source in Markdown.
+- `chapters/`: manuscript source in Markdown; `research/reading-order.json` defines the published reading order.
 - `research/`: source ledger, bibliography, claims, book plan, and proposed protocols.
 - `data/`: unchanged source corpus and hash manifest.
 - `analysis/`: reproducible descriptive pilot outputs.
@@ -41,7 +41,7 @@ python3 -m venv .venv
 .venv/bin/python -m http.server 8747 --directory dist
 ```
 
-The source ZIP omits binary narration to keep the source download small. To build with audio, use the GitHub repository or copy the three published `.m4a` files into `audio/`. The listening player streams immutable audio from the public GitHub repository to support seeking. Same-site files provide direct downloads. Serving locally is a preview; it does not publish. The public corpus file must remain unchanged, including its license notice.
+The source ZIP omits binary narration to keep the source download small. To build with audio, use the GitHub repository or copy the published `.m4a` files into `audio/`. The listening player streams immutable audio from the public GitHub repository to support seeking. Same-site files provide direct downloads. Serving locally is a preview; it does not publish. The public corpus file must remain unchanged, including its license notice.
 
 ## Licenses
 

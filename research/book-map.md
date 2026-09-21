@@ -9,9 +9,9 @@ Target: 90,000–120,000 words. General readers, including skeptical readers, wi
 | Chapter | Main question | Required evidence or artifact | Current status |
 |---|---|---|---|
 | Opening | How can a reader investigate fairly? | Stated inference levels | Drafted |
-| 1. The challenge | What does the text actually claim? | 2:23–24, 10:38, 11:13, 17:88, 52:33–34 and tafsir | Source acquisition |
-| 2. The distance between claims | How do distinctiveness, excellence, and inimitability differ? | Philosophical argument map | Framework drafted |
-| 3. A history of the question | Where do classical theories agree and differ? | Naẓm, rhetoric, ṣarfa, theology | Bibliography begun |
+| 1. The challenge | What does the text actually claim? | 2:23–24, 10:38, 11:13, 17:88, 52:33–34 and tafsir | Drafted in edition 0.2; independent review pending |
+| 2. The distance between claims | How do distinctiveness, excellence, and inimitability differ? | Philosophical argument map | Drafted in edition 0.2; independent review pending |
+| 3. A history of the question | Where do classical theories agree and differ? | Naẓm, rhetoric, ṣarfa, theology | Selected-arguments chapter drafted in edition 0.2; wider history pending |
 | 4. The head ablaze | How does grammar change an image? | 19:2–6; al-Jurjānī and competing analyses | Sample drafted |
 | 5. Economy and implication | What can fewer words communicate? | Annotated passages and counterexamples | Planned |
 | 6. Sound and meaning | What belongs to the text and what to performance? | Phonological and recitation studies | Planned |
@@ -23,7 +23,7 @@ Target: 90,000–120,000 words. General readers, including skeptical readers, wi
 | 12. Larger structures | Which structural proposals survive alternatives? | Surahs 36, 55, 67, 75; independent boundaries | Planned |
 | 13. Strong alternatives | What constitutes a fair comparison? | Corpus selection and attribution audit | Criteria sketched; final protocol pending |
 | 14. Reader judgments | What do experts and other readers agree on? | Human studies and recognition checks | Not conducted |
-| 15. Mathematical description | What do the measurements actually show? | Reproducible descriptive and comparative analyses | Descriptive pilot |
+| 15. Mathematical description | What do the measurements actually show? | Reproducible descriptive and comparative analyses | Descriptive pilot and methods chapter drafted; proposed studies not conducted |
 | 16. Language through translation | What transfers and what needs explanation? | Multiple renderings and reader study | Planned |
 | 17. Historical circumstances | Which composition premises have evidence? | Independent historical source criticism | Bibliography begun |
 | 18. Transmission and readings | What textual state is being analyzed? | Manuscripts, readings, source-specific claims | Baseline documented |

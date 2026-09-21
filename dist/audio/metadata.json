@@ -58,7 +58,137 @@
       },
       "generation_wall_seconds": 177.88,
       "paragraphs": 17,
-      "published_source_sha256": "2e166d8527be8e402e820f8eb57f54686ebf0b3070ce530fffc1bbad0911b2df"
+      "published_source_sha256": "2e166d8527be8e402e820f8eb57f54686ebf0b3070ce530fffc1bbad0911b2df",
+      "stream_url": "https://raw.githubusercontent.com/reshadn/inimitable-quran-project/5600c13334804e46d5519a225468d2c3ae783646/audio/00-an-invitation-to-examine.m4a"
+    },
+    {
+      "slug": "03-the-challenge",
+      "title": "The Challenge",
+      "filename": "03-the-challenge.m4a",
+      "script_filename": "03-the-challenge.txt",
+      "source_sha256": "6a8bf55021fc91660bb697270bf60c569208782a42e995a8fff40ae44426a715",
+      "words": 2055,
+      "duration_seconds": 928.767,
+      "duration_label": "15:28",
+      "bytes": 7720569,
+      "voice": "af_heart",
+      "script_sha256": "bea9314e9f66c53d6621cce6a0555693b73647f3e04800e85b85e5e6ec237bef",
+      "audio_sha256": "2580cde375b909ed0d4e502453219608b83f5759d835257dfa026de9944c9986",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "profile": "LC",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "928.767007",
+          "size": "7720569"
+        }
+      },
+      "generation_wall_seconds": 391.86,
+      "paragraphs": 34,
+      "technical_validation": {
+        "finite_samples": true,
+        "full_decode": true,
+        "faststart": true,
+        "codec": "AAC-LC",
+        "mono": true
+      },
+      "auditory_review": "Not performed",
+      "published_source_sha256": "6a8bf55021fc91660bb697270bf60c569208782a42e995a8fff40ae44426a715",
+      "stream_url": "https://raw.githubusercontent.com/reshadn/inimitable-quran-project/main/audio/03-the-challenge.m4a"
+    },
+    {
+      "slug": "04-the-distance-between-claims",
+      "title": "The Distance Between Claims",
+      "filename": "04-the-distance-between-claims.m4a",
+      "script_filename": "04-the-distance-between-claims.txt",
+      "source_sha256": "11365d0988655630b4fa1ddacdf56b91471fd2e8a429831c0b53d2e5ceeb90a3",
+      "words": 1838,
+      "duration_seconds": 821.858,
+      "duration_label": "13:41",
+      "bytes": 6822106,
+      "voice": "af_heart",
+      "script_sha256": "ba05e206f5a987b056a0401feb08ecf72788b7becc70cfc252aac982e59afa39",
+      "audio_sha256": "0ed49027e6c908bff9349fdfad56a43cbb46c9b784b3ebf7f5b6b499740c82a5",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "profile": "LC",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "821.858005",
+          "size": "6822106"
+        }
+      },
+      "generation_wall_seconds": 342.12,
+      "paragraphs": 36,
+      "technical_validation": {
+        "finite_samples": true,
+        "full_decode": true,
+        "faststart": true,
+        "codec": "AAC-LC",
+        "mono": true
+      },
+      "auditory_review": "Not performed",
+      "published_source_sha256": "11365d0988655630b4fa1ddacdf56b91471fd2e8a429831c0b53d2e5ceeb90a3",
+      "stream_url": "https://raw.githubusercontent.com/reshadn/inimitable-quran-project/main/audio/04-the-distance-between-claims.m4a"
+    },
+    {
+      "slug": "05-a-history-of-the-question",
+      "title": "A History of the Question",
+      "filename": "05-a-history-of-the-question.m4a",
+      "script_filename": "05-a-history-of-the-question.txt",
+      "source_sha256": "9d52b6d9a4bb2f144405eb9c54660c5a5f443337daf175d047c58fb5a26effbd",
+      "words": 2327,
+      "duration_seconds": 1094.678,
+      "duration_label": "18:14",
+      "bytes": 9096772,
+      "voice": "af_heart",
+      "script_sha256": "4cd5735979765895aff09f1a2758c08cc4287a34b258323f57a13bd37a7fe63c",
+      "audio_sha256": "a199c78f82e2ce32b413c24fe78e3f6cd1f7bacbe3dacfa8c06187be6906d390",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "profile": "LC",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "1094.678005",
+          "size": "9096772"
+        }
+      },
+      "generation_wall_seconds": 425.09,
+      "paragraphs": 45,
+      "technical_validation": {
+        "finite_samples": true,
+        "full_decode": true,
+        "faststart": true,
+        "codec": "AAC-LC",
+        "mono": true
+      },
+      "auditory_review": "Not performed",
+      "published_source_sha256": "9d52b6d9a4bb2f144405eb9c54660c5a5f443337daf175d047c58fb5a26effbd",
+      "stream_url": "https://raw.githubusercontent.com/reshadn/inimitable-quran-project/main/audio/05-a-history-of-the-question.m4a"
     },
     {
       "slug": "01-the-head-ablaze",
@@ -92,7 +222,8 @@
       },
       "generation_wall_seconds": 437.57,
       "paragraphs": 56,
-      "published_source_sha256": "bc7af6d96d44ffa239da192eae8c258b31b93034398d9681341e5d225b27017c"
+      "published_source_sha256": "bc7af6d96d44ffa239da192eae8c258b31b93034398d9681341e5d225b27017c",
+      "stream_url": "https://raw.githubusercontent.com/reshadn/inimitable-quran-project/5600c13334804e46d5519a225468d2c3ae783646/audio/01-the-head-ablaze.m4a"
     },
     {
       "slug": "02-time-and-mutual-responsibility",
@@ -126,10 +257,55 @@
       },
       "generation_wall_seconds": 422.33,
       "paragraphs": 51,
-      "published_source_sha256": "da15dbab94cebe78d6b175d660ca06710af5901a2a783fdb8cdb8035156baf9c"
+      "published_source_sha256": "da15dbab94cebe78d6b175d660ca06710af5901a2a783fdb8cdb8035156baf9c",
+      "stream_url": "https://raw.githubusercontent.com/reshadn/inimitable-quran-project/5600c13334804e46d5519a225468d2c3ae783646/audio/02-time-and-mutual-responsibility.m4a"
+    },
+    {
+      "slug": "06-counting-without-overclaiming",
+      "title": "Counting Without Overclaiming",
+      "filename": "06-counting-without-overclaiming.m4a",
+      "script_filename": "06-counting-without-overclaiming.txt",
+      "source_sha256": "50603603797af2b9a940426b31fe8576cbf0bab2e16348d4941c35549c15e3e3",
+      "words": 2057,
+      "duration_seconds": 971.822,
+      "duration_label": "16:11",
+      "bytes": 8053113,
+      "voice": "af_heart",
+      "script_sha256": "76bab001d00b257eb498dcd485973d2b04d1be9d3c07313df1e076f009c77c97",
+      "audio_sha256": "3bb46e3e415b77b85b2fe02f6a8975abd1ed7ddb8ecd1a6a05a77a8e9d528584",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "profile": "LC",
+            "codec_type": "audio",
+            "sample_rate": "44100",
+            "channels": 1
+          }
+        ],
+        "format": {
+          "duration": "971.821995",
+          "size": "8053113"
+        }
+      },
+      "generation_wall_seconds": 403.82,
+      "paragraphs": 49,
+      "technical_validation": {
+        "finite_samples": true,
+        "full_decode": true,
+        "faststart": true,
+        "codec": "AAC-LC",
+        "mono": true
+      },
+      "auditory_review": "Not performed",
+      "published_source_sha256": "50603603797af2b9a940426b31fe8576cbf0bab2e16348d4941c35549c15e3e3",
+      "stream_url": "https://raw.githubusercontent.com/reshadn/inimitable-quran-project/main/audio/06-counting-without-overclaiming.m4a"
     }
   ],
-  "total_duration_seconds": 2548.212,
-  "total_bytes": 21126577,
-  "public_edition_note": "Published chapter headers clarify AI-assisted draft status and pending independent review; source-count wording was tightened. Substantive narrated argument is unchanged. source_sha256 identifies the pre-publication research file; published_source_sha256 identifies the released text."
+  "total_duration_seconds": 6365.337,
+  "total_bytes": 52819137,
+  "public_edition_note": "Edition 0.2 adds four new narrations. source_sha256 records the text used to prepare each script; published_source_sha256 identifies the published chapter. Older chapters retain their previously documented editorial-header revisions. All scripts are adaptations for English narration, not Quranic recitation.",
+  "edition": "0.2"
 }
