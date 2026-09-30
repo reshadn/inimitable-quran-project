@@ -1,0 +1,106 @@
+{
+  "chapter": "Sound and Meaning",
+  "updated": "2026-09-29",
+  "scope": "Complete surah93 reading plus a textual inventory. Phonetic and discourse labels are manual proposals. No acoustic recording or participant experiment was analyzed.",
+  "sources": [
+    {
+      "id": "SND-01",
+      "author": "Tanzil Project",
+      "title": "Quran text, Uthmani 1.1, pinned project corpus",
+      "url": "https://tanzil.net/download/",
+      "inspected_scope": "Complete numbered surah 93 extracted from the pinned XML and compared byte-for-byte with the chapter quotations.",
+      "locator": "data/raw/tanzil-uthmani-1.1.xml; 93:1–11",
+      "verification_status": "passage_inspected",
+      "limitations": "One pinned Hafs representation; original English renderings are project drafts.",
+      "supports": [
+        "Exact Arabic wording and contextual check"
+      ],
+      "accessed": "2026-09-29",
+      "full_work_read": false,
+      "verification_provenance": "AI-assisted source inspection; independent scholarly review pending."
+    },
+    {
+      "id": "SND-02",
+      "author": "al-Ṭabarī",
+      "title": "Jāmiʿ al-bayān, commentary on 93:7",
+      "url": "https://quran.ksu.edu.sa/tafseer/tabary/sura93-aya7.html",
+      "inspected_scope": "Complete short Arabic entry inspected, including alternative descriptions of the prior condition.",
+      "locator": "Entire displayed entry for 93:7",
+      "verification_status": "passage_inspected",
+      "limitations": "Transmitted reports not authenticated. The chapter does not adjudicate prior beliefs or biography.",
+      "supports": [
+        "Interpretive plurality behind provisional rendering of dallan"
+      ],
+      "accessed": "2026-09-29",
+      "full_work_read": false,
+      "verification_provenance": "AI-assisted source inspection; independent scholarly review pending."
+    },
+    {
+      "id": "SND-03",
+      "author": "al-Ṭabarī",
+      "title": "Jāmiʿ al-bayān, commentary on 93:10",
+      "url": "https://quran.ksu.edu.sa/tafseer/tabary/sura93-aya10.html",
+      "inspected_scope": "Complete short Arabic entry inspected.",
+      "locator": "Entire displayed entry for 93:10",
+      "verification_status": "passage_inspected",
+      "limitations": "Specific interpretation of asking from need; does not establish that every broader reading is excluded.",
+      "supports": [
+        "Person asking from need and obligation not to rebuff"
+      ],
+      "accessed": "2026-09-29",
+      "full_work_read": false,
+      "verification_provenance": "AI-assisted source inspection; independent scholarly review pending."
+    },
+    {
+      "id": "SND-04",
+      "author": "Inimitable Qur’an Project",
+      "title": "Close-reading observations: economy and sound",
+      "url": "https://github.com/reshadn/inimitable-quran-project/blob/main/analysis/close-reading-observations.json",
+      "inspected_scope": "New extraction executed with existing hash-checked corpus loader; counts 2:178=37, 2:179=8, 93:3=5, surah93=40.",
+      "locator": "scripts/analyze_close_readings.py and analysis/close-reading-observations.json",
+      "verification_status": "passage_inspected",
+      "limitations": "Program verifies extraction, not manual phonetics or discourse labels; no acoustic or participant data.",
+      "supports": [
+        "Reproducible written-token observations",
+        "Explicit separation of computed fields and editorial annotations"
+      ],
+      "accessed": "2026-09-29",
+      "full_work_read": false,
+      "verification_provenance": "AI-assisted source inspection; independent scholarly review pending."
+    },
+    {
+      "id": "SND-05",
+      "author": "al-Qurṭubī",
+      "title": "al-Jāmiʿ li-aḥkām al-Qurʾān, commentary on 93:3",
+      "url": "https://quran.ksu.edu.sa/tafseer/qortobi/sura93-aya3.html",
+      "inspected_scope": "Closing lexical and grammatical discussion of وما قلى, including recovery of the omitted object and relation to the verse ending.",
+      "locator": "93:3, paragraph beginning قوله تعالى وما قلى and final explanatory sentence",
+      "verification_status": "passage_inspected",
+      "limitations": "Digital transcription only; historical reports earlier in the entry are not authenticated or used to establish biography.",
+      "supports": [
+        "Understood second-person object",
+        "Omission connected with verse ending in this commentary"
+      ],
+      "accessed": "2026-09-29",
+      "full_work_read": false,
+      "verification_provenance": "AI-assisted source inspection; independent scholarly review pending."
+    },
+    {
+      "id": "SND-06",
+      "author": "Devin J. Stewart",
+      "title": "Speech Genres and Interpretation of the Qur’an",
+      "url": "https://doi.org/10.3390/rel12070529",
+      "inspected_scope": "Bounded publisher-indexed text listing speech-event factors and discussing inaccessible original performances was inspected through search retrieval; publisher full-page and PDF retrieval failed.",
+      "locator": "Religions 12(7), 529 (2021); paragraph beginning All of these elements are worth keeping in mind",
+      "verification_status": "passage_inspected",
+      "limitations": "Limited indexed passage coverage, not a full-article reading; does not verify this chapter’s phonetics or proposed al-Duha interpretation.",
+      "supports": [
+        "Distinguish speech setting and participants from written record",
+        "Historical performance features not recoverable automatically from text"
+      ],
+      "accessed": "2026-09-29",
+      "full_work_read": false,
+      "verification_provenance": "AI-assisted source inspection; independent scholarly review pending."
+    }
+  ]
+}

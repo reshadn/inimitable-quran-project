@@ -1,0 +1,123 @@
+{
+  "source_sha256": "8c5aeae20363a98f6963720d29fce040ca8b56a8e75f8b564c257fce7f6d0417",
+  "status": "descriptive extraction with manual annotations; not an experiment",
+  "representation": "Pinned Tanzil Uthmani 1.1, Hafs; numbered verses only",
+  "token_rule": "Reuse analyze_corpus.lexical_tokens; attached clitics retained",
+  "annotation_status": "Editorial proposals; independent Arabic and recitation review pending",
+  "economy_cases": [
+    {
+      "verse": "2:178",
+      "written_tokens": 37
+    },
+    {
+      "verse": "2:179",
+      "written_tokens": 8
+    },
+    {
+      "verse": "93:3",
+      "written_tokens": 5
+    }
+  ],
+  "surah_93": [
+    {
+      "verse": "93:1",
+      "written_tokens": 1,
+      "final_written_token": "وَٱلضُّحَىٰ",
+      "approximate_pausal_ending_manual": "ḍuḥā",
+      "terminal_sound_manual": "ā",
+      "discourse_function_manual": "oath"
+    },
+    {
+      "verse": "93:2",
+      "written_tokens": 3,
+      "final_written_token": "سَجَىٰ",
+      "approximate_pausal_ending_manual": "sajā",
+      "terminal_sound_manual": "ā",
+      "discourse_function_manual": "oath"
+    },
+    {
+      "verse": "93:3",
+      "written_tokens": 5,
+      "final_written_token": "قَلَىٰ",
+      "approximate_pausal_ending_manual": "qalā",
+      "terminal_sound_manual": "ā",
+      "discourse_function_manual": "reassurance"
+    },
+    {
+      "verse": "93:4",
+      "written_tokens": 5,
+      "final_written_token": "ٱلْأُولَىٰ",
+      "approximate_pausal_ending_manual": "ūlā",
+      "terminal_sound_manual": "ā",
+      "discourse_function_manual": "promise"
+    },
+    {
+      "verse": "93:5",
+      "written_tokens": 4,
+      "final_written_token": "فَتَرْضَىٰٓ",
+      "approximate_pausal_ending_manual": "tarḍā",
+      "terminal_sound_manual": "ā",
+      "discourse_function_manual": "promise"
+    },
+    {
+      "verse": "93:6",
+      "written_tokens": 4,
+      "final_written_token": "فَـَٔاوَىٰ",
+      "approximate_pausal_ending_manual": "āwā",
+      "terminal_sound_manual": "ā",
+      "discourse_function_manual": "remembered provision"
+    },
+    {
+      "verse": "93:7",
+      "written_tokens": 3,
+      "final_written_token": "فَهَدَىٰ",
+      "approximate_pausal_ending_manual": "hadā",
+      "terminal_sound_manual": "ā",
+      "discourse_function_manual": "remembered provision"
+    },
+    {
+      "verse": "93:8",
+      "written_tokens": 3,
+      "final_written_token": "فَأَغْنَىٰ",
+      "approximate_pausal_ending_manual": "aghnā",
+      "terminal_sound_manual": "ā",
+      "discourse_function_manual": "remembered provision"
+    },
+    {
+      "verse": "93:9",
+      "written_tokens": 4,
+      "final_written_token": "تَقْهَرْ",
+      "approximate_pausal_ending_manual": "taqhar",
+      "terminal_sound_manual": "r",
+      "discourse_function_manual": "prohibition"
+    },
+    {
+      "verse": "93:10",
+      "written_tokens": 4,
+      "final_written_token": "تَنْهَرْ",
+      "approximate_pausal_ending_manual": "tanhar",
+      "terminal_sound_manual": "r",
+      "discourse_function_manual": "prohibition"
+    },
+    {
+      "verse": "93:11",
+      "written_tokens": 4,
+      "final_written_token": "فَحَدِّثْ",
+      "approximate_pausal_ending_manual": "ḥaddith",
+      "terminal_sound_manual": "th",
+      "discourse_function_manual": "positive instruction"
+    }
+  ],
+  "surah_93_total_written_tokens": 40,
+  "terminal_label_counts": {
+    "ā": 8,
+    "r": 2,
+    "th": 1
+  },
+  "limits": [
+    "Labels are not an exhaustive rhyme classification.",
+    "No recordings or listeners were analyzed.",
+    "Discourse groupings are interpretations, not discovered ground truth.",
+    "Counts do not demonstrate rarity, excellence, inimitability, or origin."
+  ]
+}

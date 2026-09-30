@@ -31,7 +31,11 @@ def main():
     edition=json.loads((ROOT/'research/reading-order.json').read_text())
     catalog=json.loads((ROOT/'research/source-catalog.json').read_text())
     assert len(list((DIST/'audio').glob('*.m4a')))==len(meta['chapters'])
-    assert {c['slug'] for c in meta['chapters']}=={c['slug'] for c in edition['chapters']}, 'Every published chapter needs its promised narration'
+    assert {c['slug'] for c in meta['chapters']}=={c['slug'] for c in edition['chapters'] if c.get('audio_status', 'available') == 'available'}, 'Every chapter advertised with audio needs its narration'
+    for c in edition['chapters']:
+        if c.get('audio_status') == 'not_yet_available':
+            text=(DIST/'read'/c['slug']/'index.html').read_text()
+            assert 'Text edition' in text and f'/listen/#{c["slug"]}' not in text
     assert 'Samantha' not in json.dumps(meta), 'Private voice metadata must not be published'
     routes=['/','/read/','/listen/','/project/','/contribute/','/licenses/','/research/'] + ['/read/'+c['slug']+'/' for c in edition['chapters']]
     errors=[]
@@ -70,7 +74,7 @@ def main():
             page.locator('[data-panel="sources"]').click()
             page.locator('#status-filter').select_option('discovery_lead')
             assert page.locator('#source-list .source-card').count()==catalog['counts']['discovery_lead']
-            assert page.locator('#evidence-list .source-card').count()==38
+            assert page.locator('#evidence-list .source-card').count()==sum(len(json.loads(path.read_text())['sources']) for path in (ROOT/'research').glob('sources-*.json'))
             page.locator('[data-panel="lab"]').click()
             page.locator('#surah-select').select_option('103')
             assert '14' in page.locator('#surah-details').inner_text()

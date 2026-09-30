@@ -1,8 +1,8 @@
 # The Qur’an Examined
 
-## Expanded research edition 0.2
+## Expanded research edition 0.3
 
-20 September 2026. Draft for review.
+30 September 2026. Draft for review.
 
 # An invitation to examine
 
@@ -430,6 +430,281 @@ We have examined one clause within one prayer. The next step is to examine a com
 ### Source and review note
 
 Source identifiers refer to `research/sources-19-4.json`. Six source records were inspected at the scopes recorded there. Only the al-Jurjānī source was checked against its printed page images; the tafsīr sources are digital transcriptions. Harb is cited only for the available publisher summary, not as a claim to have inspected the full chapter. No reader experiment, comparative ranking, or comprehensive literature review is represented as completed. The proposed interpretation and the original working translations remain open to independent Arabic, literary, and editorial review.
+
+
+---
+
+# Economy and Implication
+
+*Chapter 5 of the proposed book. Research draft, 29 September 2026. Original analysis and working translations; independent Arabic and scholarly review pending.*
+
+There is a difference between saying little and making a little language do substantial work. A warning on a door may contain two words and leave nothing important uncertain. A two-word explanation of a complicated dispute may be almost useless. Brevity succeeds when a reader can recover what matters, at the right moment, without being made to invent what the expression does not warrant.
+
+This gives us a practical way into the Qur’an’s economy of expression. Instead of asking how many meanings can be claimed for a phrase, ask what the wording establishes, what the context supplies, and what remains genuinely open. The strongest reading is not necessarily the one that produces the longest commentary. It is the one that can explain where its conclusions came from.
+
+Two passages will guide this chapter: the statement about life and retribution in 2:179, and the reassurance in 93:3. They work differently. The first expresses a relationship that calls for explanation. The second leaves an understood grammatical object unspoken. Treating both as “many meanings in few words” would obscure the very choices we want to examine.
+
+## A short statement with a difficult relationship
+
+The Arabic of Qur’an 2:179 reads:
+
+> وَلَكُمْ فِى ٱلْقِصَاصِ حَيَوٰةٌ يَـٰٓأُو۟لِى ٱلْأَلْبَـٰبِ لَعَلَّكُمْ تَتَّقُونَ
+
+An original working rendering is:
+
+> And for you, in retribution, there is life, people of understanding, so that you may exercise restraint.
+
+“Retribution” renders *qiṣāṣ* provisionally. “Exercise restraint” brings out the contextual reading used here; it does not exhaust the religious sense of *taqwā*. The text has been checked against the project’s pinned Tanzil file. The preceding verse is essential to its interpretation. [ECO-01: text and counting conventions](../data/manifest.json)
+
+Verse 2:178 addresses believers, prescribes *qiṣāṣ* in cases of killing, and also speaks of remission, appropriate conduct, payment with good treatment, and mercy. Whatever questions its legal interpretation raises, this surrounding language prevents us from reading the next sentence as an isolated celebration of killing. Nor is 2:179 a modern statistical claim about the effects of a particular criminal-justice policy. This chapter investigates how a statement works within its discourse; it does not establish contemporary policy effectiveness.
+
+The juxtaposition is immediately striking: a response associated with death or injury is presented as containing life. But a striking juxtaposition can be empty. What makes this one intelligible?
+
+Al-Ṭabarī explains the relation through restraint: fear of retribution can prevent an intended killing. He also records a different emphasis, in which limiting retaliation to the perpetrator preserves other lives. These are two explanatory routes within the commentary. They should not be collapsed into a single proposition supposedly stated word for word in the verse. [ECO-02: al-Ṭabarī on 2:179](https://quran.ksu.edu.sa/tafseer/tabary/sura2-aya179.html)
+
+The verse states the relationship compactly. The commentator articulates ways in which it can make sense. A reader can distinguish those levels while recognizing their connection. The text’s economy partly consists in expressing a consequential relation without inserting its entire explanation into the sentence.
+
+## Follow the order of attention
+
+Begin with *wa-lakum*: “and for you.” Before the key relationship is named, the audience has been placed within it as beneficiary. A detached formulation such as “retribution preserves life” would make a general assertion; the Qur’anic wording also addresses people whose common life is at issue.
+
+Next comes *fī al-qiṣāṣ*, “in retribution.” The preposition locates life figuratively within the prescribed response. It is not a diagram of a physical container. The placement brings the apparently troubling term before *ḥayātun*, “life,” which resolves the phrase into an assertion about benefit. This account of the reader’s developing attention is our interpretation of the sequence, not a measured record of how every listener processes it.
+
+Then comes the address to people of understanding. The wording does not merely announce a rule; it calls upon a capacity for consideration. There is a relationship here between the form of the address and the explanatory work the sentence invites. A listener is asked to grasp why a response to killing might preserve life.
+
+The closing clause connects that understanding with restraint. The end of the verse is therefore not an optional ornament attached to an already finished slogan. It supplies a practical direction for the preceding appeal. A reading confined to the first four written words can illuminate the compact assertion, but it cannot stand in for the whole verse.
+
+These observations are individually modest. Their combination makes the sentence worth examining: the audience’s interest, the counterintuitive relation, the appeal to understanding, and the orientation toward conduct occur in one short movement. Whether that movement is exceptionally successful requires evaluation. Whether it exceeds human capacity requires a further argument still.
+
+## Compare formulations without arranging an easy victory
+
+Consider three **original teaching paraphrases, not Qur’anic text or translations**:
+
+| Formulation | What it makes easier to inspect |
+|---|---|
+| “Retribution deters killing.” | Names a proposed mechanism directly, but narrows the possible explanation. |
+| “A response to unlawful killing should preserve life.” | Expresses a purpose, while changing an assertion about the prescription into a principle for evaluating responses. |
+| “Your lives are protected when potential killers fear the prescribed consequence.” | Makes beneficiaries and a causal account explicit, at the cost of length and a more specific interpretation. |
+
+The first might be clearer in a discussion that asks only about deterrence. The second might be useful when asking whether a policy achieves its purpose. The third might suit a reader unfamiliar with the background. These strengths matter. A comparison that refuses to recognize them would be advocacy disguised as analysis.
+
+What the paraphrases expose is a tradeoff. Naming a mechanism can reduce uncertainty but also reduce range. Stating a purpose can make evaluation explicit but change the grammatical claim. Expanding the explanation can make a passage easier to teach while reducing its compact force. There is no rule that the shortest formulation wins every communicative task.
+
+The frequently discussed comparison between this verse and an Arabic maxim about killing belongs to the history of the debate. We do not reproduce a contest here without verifying the maxim’s textual form, attribution, setting, and transmission. A poorly sourced proverb is not a secure representative of the best human alternative. The comparison above is deliberately narrower: it identifies choices and their consequences without pretending to settle the Qur’anic challenge.
+
+## A recoverable absence
+
+Now consider Qur’an 93:3:
+
+> مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ
+
+An original working rendering is:
+
+> Your Lord has not left you, nor has He detested you.
+
+The final “you” is explicit in this English rendering. In the Arabic, the first verb carries the object suffix *-ka*, while *qalā* has no corresponding expressed object. The object is understood from the surrounding address. Translating naturally can therefore conceal a feature of the original arrangement.
+
+Al-Qurṭubī explains the final verb with “you” supplied and relates the omission of the suffix to the verse ending. His explanation supports a precise, limited observation: a recoverable object can remain unexpressed while the ending takes its place in the surrounding sound pattern. It does not establish every later psychological explanation offered for the omission. [ECO-03: al-Qurṭubī on 93:3](https://quran.ksu.edu.sa/tafseer/qortobi/sura93-aya3.html)
+
+In particular, one sometimes encounters the attractive suggestion that the addressee is spared being explicitly attached to the idea of hatred. That may be offered as a further reading, but the missing suffix by itself does not prove it. The clause still communicates the denial of hatred toward the addressee. An explanation should not erase the understood meaning in order to celebrate its gentleness.
+
+The defensible starting point is already interesting. The expression can omit something that remains intelligible. Its economy does not depend on the reader guessing an entirely new referent. The preceding clause has done the work that makes the second clause recoverable.
+
+## What omission requires from a reader
+
+Imagine encountering only “nor has He detested.” An English reader would reasonably ask: who has not detested whom? In its actual context, the Arabic sentence does not arrive in that isolation. The preceding verb, the reference to the Lord, and the sustained second-person address establish relations that carry forward.
+
+This is a reminder that linguistic economy is distributed. Some expressions are short because they exploit relations established nearby. Others presuppose a genre, a familiar situation, or an earlier discussion. A short passage may depend on a large shared context. That dependence is not automatically a weakness; ordinary and accomplished human language both rely on it.
+
+It becomes a weakness when an interpreter claims that all the recovered information was independently encoded in the few visible words. Contextual contribution must be credited to context. Similarly, if a teacher supplies several minutes of background before a student understands a phrase, those minutes should not disappear from an experimental account of comprehension.
+
+The right question is whether the expression gives its intended readers adequate guidance for the purpose at hand. That question is more demanding than counting the number of pages that commentators have written about it.
+
+## A reconstruction ledger
+
+We propose a simple communication device: a reconstruction ledger. It has three columns, separating what is expressed, what can reasonably be recovered, and what requires further evidence. This is a project teaching format, not a claimed invention in linguistic theory.
+
+| Passage | Expressed and recoverable | Further claim not established by the wording alone |
+|---|---|---|
+| 2:179 | An addressed community; life associated with *qiṣāṣ*; an appeal to understanding and restraint. Commentary supplies explanatory mechanisms. | A measured deterrence effect in a present-day legal system, or superiority over all alternative formulations. |
+| 93:3 | The Lord is named; abandonment is denied with an expressed object; the parallel clause permits the object to be recovered. | A universal emotional response, a uniquely possible omission, or a proof that no human could achieve comparable economy. |
+
+The ledger disciplines both enthusiasm and criticism. An enthusiast must identify where a rich reading exceeds what the expression supports. A critic must acknowledge recoverable meaning rather than treating every unspoken element as a defect. The point is to make disagreement specific enough to be productive.
+
+Readers could improve the ledger by recording alternative completions and the evidence against them. If two qualified readers recover different meanings, that disagreement should remain visible. A measure that counts every proposed completion as an additional literary success would reward ambiguity indiscriminately.
+
+## Counting length without counting meanings
+
+Under this project’s declared orthographic rule, the complete verse 2:179 contains eight written tokens; 93:3 contains five. Attached conjunctions and pronoun suffixes stay attached. These are exact counts within one pinned representation, not universal totals under every segmentation rule. [ECO-04: reproducible observations](../analysis/close-reading-observations.json)
+
+Those numbers cannot be divided into an objective count of “meanings” to produce a literary score. What counts as a separate meaning? Does a contextual inference count equally with an expressed proposition? Can a commentator multiply the numerator merely by describing the same relation at several levels? Unless those decisions are independently specified, a semantic-density ratio hides interpretation inside an apparently neutral number.
+
+A better study would begin with a defined communication task. Readers might identify the participants, explain the relation between clauses, or distinguish an implication from something the passage does not support. Record their reasons, their prior familiarity, and the context supplied. Compare credible alternatives on the same tasks, allowing an alternative to be longer if that length serves a legitimate purpose.
+
+Even then, faster answers need not mean better understanding. A familiar phrase may be processed quickly because it has been encountered many times. A difficult expression may reward slower reflection. A study should state which outcome matters before choosing the instrument that makes its favored text look best. No such reader experiment has been conducted for this chapter.
+
+## What the two examples establish
+
+We have seen two forms of economy: a compact relationship whose explanation is developed through context and commentary, and an omitted object that remains recoverable through the preceding clause. Their effects involve arrangement, reference, and purpose. Neither is adequately described by saying that the words are merely beautiful.
+
+The positive literary proposal is that these choices sustain meaning without spelling out every relation. The open evaluative question is how well they do so compared with strong alternatives addressed to comparable purposes. The still larger question concerns origin. Keeping those questions distinct allows the first to receive the attention it deserves.
+
+Read a short expression slowly. Reconstruct what it asks you to supply. Then ask whether the language earned that reconstruction. That is a beginning another reader can examine, even before agreeing about revelation.
+
+## Sources and review tasks
+
+Arabic quotations preserve the pinned Tanzil wording. English renderings and teaching paraphrases are original to this project. [Chapter evidence ledger](../research/sources-economy.json). Prior classical context is documented in [A History of the Question](https://inimitable-quran-project.workspace-114686.chatgpt.site/read/05-a-history-of-the-question/), especially HIS-01; that prior inspection is not counted again as a new full-work reading.
+
+Review priorities: check the working rendering of 2:179 against its legal and theological contexts; assess the analysis of omitted reference in 93:3; propose stronger alternatives; and collate the cited digital commentaries with identified print editions. No human study, acoustic measurement, or adjudicated comparison is reported.
+
+
+---
+
+# Sound and Meaning
+
+*Chapter 6 of the proposed book. Research draft, 29 September 2026. A complete reading of Surah al-Ḍuḥā with a reproducible textual inventory. Independent Arabic and recitation review pending.*
+
+A voice can move us before we understand its words. That experience matters, but it creates a problem for an argument about language. What belongs to the composition? What belongs to the performer? What comes from a listener’s memory, expectation, or belief?
+
+The questions are easiest to ignore when a recitation is especially affecting. Yet they are precisely the questions a careful inquiry should ask. A skilled performance can reveal a pattern already present in the text. It can also make different texts compelling through pace, pitch, breath, and emphasis. To investigate sound as evidence, we must be able to describe what persists across performances and what varies between them.
+
+Surah al-Ḍuḥā, Qur’an 93, is short enough to keep whole. Its opening oaths lead to reassurance, its middle recalls conditions answered by provision, and its conclusion directs conduct toward others. Its verse endings offer a visible starting point for listening. We will first inspect that combination, then consider the experiment required to test any claimed effect.
+
+## Read the entire composition
+
+The eleven numbered verses below are extracted unchanged from the project’s pinned Tanzil representation. The unnumbered opening basmala is outside this numbered-verse inventory. [SND-01: text provenance](../data/manifest.json)
+
+> وَٱلضُّحَىٰ
+>
+> وَٱلَّيْلِ إِذَا سَجَىٰ
+>
+> مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ
+>
+> وَلَلْـَٔاخِرَةُ خَيْرٌ لَّكَ مِنَ ٱلْأُولَىٰ
+>
+> وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰٓ
+>
+> أَلَمْ يَجِدْكَ يَتِيمًا فَـَٔاوَىٰ
+>
+> وَوَجَدَكَ ضَآلًّا فَهَدَىٰ
+>
+> وَوَجَدَكَ عَآئِلًا فَأَغْنَىٰ
+>
+> فَأَمَّا ٱلْيَتِيمَ فَلَا تَقْهَرْ
+>
+> وَأَمَّا ٱلسَّآئِلَ فَلَا تَنْهَرْ
+>
+> وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ
+
+**An original working rendering:**
+
+> By the morning brightness,
+>
+> and by the night when it grows still,
+>
+> your Lord has not left you, nor has He detested you.
+>
+> And the hereafter is better for you than the first life.
+>
+> Your Lord will surely give to you, and you will be satisfied.
+>
+> Did He not find you an orphan and give shelter,
+>
+> find you without the way and give guidance,
+>
+> and find you in need and provide sufficiency?
+>
+> So, as for the orphan, do not oppress;
+>
+> as for the one who asks, do not rebuff;
+>
+> and as for your Lord’s favor, speak of it.
+
+The rendering of verse 7, “without the way,” is deliberately provisional. *Ḍāllan* should not be translated as if all theological and historical questions were already settled. Al-Ṭabarī’s short entry itself preserves differing descriptions of the prior condition. This chapter relies only on the explicit movement from that condition to guidance. It does not use the verse to establish a biography or a doctrine about the addressee’s prior beliefs. [SND-02: al-Ṭabarī on 93:7](https://quran.ksu.edu.sa/tafseer/tabary/sura93-aya7.html)
+
+“The one who asks” also leaves room that an English rendering such as “the beggar” might close too quickly. Al-Ṭabarī explains the verse in relation to someone asking from need. The working translation retains the broader form while our immediate reading follows that concrete social setting. [SND-03: al-Ṭabarī on 93:10](https://quran.ksu.edu.sa/tafseer/tabary/sura93-aya10.html)
+
+## Make a sound claim small enough to check
+
+The first eight verse endings have a long *ā* sound in the reading convention used here. The next two end in *r* at the verse-end stop, and the last in *th*, as in the Arabic consonant *thāʾ*. This is a description of terminal sounds at stops in a Ḥafṣ-based reading, not a transcription of every sound in a performance or a survey of all reading traditions.
+
+| Verses | Ending forms at a stop (prefixes omitted) | Narrow observation |
+|---|---|---|
+| 1–3 | *ḍuḥā, sajā, qalā* | Shared final long *ā*. |
+| 4–5 | *ūlā, tarḍā* | That terminal vowel continues. |
+| 6–8 | *āwā, hadā, aghnā* | The same terminal vowel continues across remembered provision. |
+| 9–10 | *taqhar, tanhar* | A closer pair with shared *-har* and final *r*. |
+| 11 | *ḥaddith* | A different final consonant, *th*. |
+
+The table intentionally does not call all eight first endings identical rhymes in every technical sense. The sounds before their terminal vowels differ. Nor does it silently group the last three verses as a single rhyme. Their parallel grammar is more extensive than their identical sound. A description that smooths out those differences would manufacture the regularity it claims to discover.
+
+The inventory is available as [a table and reproducible calculation](../analysis/close-reading-observations.json). The written forms come from the pinned file; the approximate pronunciations and discourse labels are declared editorial annotations. A computer can verify the extraction and count the labels without thereby verifying the quality of the phonetic or interpretive annotation. [SND-04: method and limits](../analysis/close-reading-observations.md)
+
+## Listen along two tracks
+
+A useful teaching exercise is to follow two tracks at once. One tracks what each section says. The other tracks its recurring endings. This is a way to make the proposed relationship inspectable; it is not a new theory of prosody.
+
+In verses 1–2, the oaths bring morning brightness and the still night into view. Verse 3 gives the reassurance toward which they lead. Verses 4–5 promise a better future and satisfaction. Verses 6–8 recall need answered by provision. Across these different movements, the final long vowel recurs.
+
+There is continuity, but not a one-to-one mapping between every change of meaning and a new rhyme. The move from promised future to recalled past happens while the terminal vowel remains. That matters: an argument claiming that each distinct semantic unit receives a distinct ending pattern would not fit this surah.
+
+At verse 9, the grammar turns toward instruction. The remembered orphan of verse 6 becomes the orphan whom the addressee must not oppress. Verse 10 extends the outward responsibility to the person who asks. Here *taqhar* and *tanhar* make a close audible pair within parallel prohibitions. Verse 11 changes both the final sound and the kind of instruction: a positive direction to speak of favor follows the two prohibitions.
+
+Our proposed reading is that the ending pattern helps mark the concluding movement while its internal variation prevents that movement from becoming mechanically uniform. This is not the only possible explanation. Another reader might emphasize grammatical parallelism more than sound. A third might question whether the final difference has any special function. These alternatives should be evaluated against the same complete passage.
+
+## The moral movement is not a sound effect
+
+The link between received shelter and responsibility toward an orphan survives in an accurate prose translation that does not rhyme. That survival tells us something important about the argument. Sound may help present a relationship; it need not create the relationship by itself.
+
+Likewise, the chapter’s proposed movement from reassurance to outward responsibility depends on lexical and grammatical features: repeated address, remembered conditions, responsive verbs, and the *fa-ammā* and *wa-ammā* constructions near the end. We should not give final vowels sole credit for work accomplished by the whole composition.
+
+Nor should we make the pattern too perfect. There are three recalled provisions and three final directions, but matching the items one for one requires interpretation. The orphan connection is explicit. The remaining connections are less mechanically specified. A diagram with three straight arrows might make a neat picture while overstating the textual evidence.
+
+This is where a multidimensional reading helps. It lets grammar, vocabulary, sound, and discourse each contribute without requiring all of them to duplicate the same structure. Coordination can involve partial overlap. The task is to describe that overlap accurately enough that someone else can disagree with it.
+
+## The missing object and the audible ending
+
+Verse 3 provides a particularly concrete link between expression and sound. The first verb explicitly includes “you” in its suffix. The final verb does not repeat that object, although the referent remains recoverable. Al-Qurṭubī relates the omission to the verse ending. The [preceding chapter](https://inimitable-quran-project.workspace-114686.chatgpt.site/read/07-economy-and-implication/) examines what is expressed and what is supplied. [SND-05: al-Qurṭubī on 93:3](https://quran.ksu.edu.sa/tafseer/qortobi/sura93-aya3.html)
+
+Here the sound observation concerns an actual choice of form, not an impression that a particular vowel inherently means comfort. If the object suffix were repeated, the surface ending would change. That does not prove that the existing form is the only excellent possibility. It shows a tradeoff worth examining: recoverable reference and a continuing terminal vowel coexist.
+
+We should resist claims such as “open vowels scientifically produce hope” unless they are supported by a suitably designed study. Sounds do not arrive in an emotional vacuum. Language knowledge, a performer’s delivery, cultural associations, and expectations can all shape what is heard. The chapter reports no experiment connecting these vowels to a universal emotion.
+
+## Text, reading convention, and performance
+
+The word “sound” can conceal several objects of study. A written text specifies forms that a reading tradition realizes in speech. A particular reciter then performs those forms with a particular pace, pitch, breath, and recording environment. A listener encounters that performance under particular conditions.
+
+An acoustic measurement belongs first to that recording. A pitch curve is not a property of the printed surah. Conversely, the recurrence of a word or a terminal sound need not disappear merely because a reciter changes tempo. These levels interact but cannot be substituted for one another.
+
+Devin Stewart’s discussion of speech genres emphasizes the importance of setting, participants, purpose, and performance, and the limits of recovering historical performances from written evidence. That is a methodological reason to be cautious about projecting a modern recording back into the first audience’s experience. We rely here on a bounded publisher-indexed passage from his 2021 discussion, not on a complete reading of every work on Qur’anic prosody. [SND-06: Stewart, *Speech Genres and Interpretation of the Qur’an*](https://doi.org/10.3390/rel12070529)
+
+The existence of recurring endings also does not settle whether a particular passage should be classified as *sajʿ*, how that category should be defined, or how Qur’anic discourse relates to other Arabic forms. Those are comparative and historical questions. Shared techniques are compatible with distinctive achievement; shared techniques also prevent us from claiming uniqueness merely by finding rhyme.
+
+## What a listening study would need
+
+Suppose we want to know whether listeners detect the shift to instructions more reliably when they hear the Arabic than when they read an accurate translation. That comparison would mix language proficiency, medium, translation, familiarity, and sound. A difference would be difficult to interpret.
+
+A more useful design separates questions. To examine performer effects, ask several appropriately trained readers to record the same selected passages under documented conditions. To examine familiarity, measure prior exposure instead of assuming it away. To investigate structure, ask listeners to identify transitions and explain what made them choose those points. Include credible comparison texts and permit evidence that grammar or vocabulary explains the result better than terminal sound.
+
+A strictly flattened recording might reduce expressive variation, but it might also make the reading unnatural. Removing recognizable sound features might change words or violate the reading convention being studied. Such manipulations need expert review and careful description. A laboratory control is not automatically a fair literary comparison.
+
+The appropriate first outcome could be agreement about boundaries, with reasons and uncertainty recorded. Later work might test delayed recall or interpretation, using participants and passages that were not used to design the task. Multiple ratings by one person should not be treated as independent people, and multiple recordings of one surah should not be treated as independent compositions.
+
+No listeners have been recruited for this chapter. No accuracy advantage, memory effect, or emotional response has been measured. The proposed study identifies what evidence is missing rather than supplying numbers in its place.
+
+## A precise achievement to discuss
+
+The reading offers something more substantial than “this sounds beautiful.” It identifies a recurring terminal vowel across several discourse functions, a close pair of endings within parallel prohibitions, and a distinct final direction. It links those observations to the complete composition without requiring every sound change to encode a unique meaning.
+
+Someone may accept the observations and prefer a different interpretation. Someone may accept the interpretation and still regard the passage as an exceptional human achievement. These responses engage different stages of the argument. None should be answered by replaying an affecting recording as if the recording had already resolved every stage.
+
+The next time you listen, attend to one recoverable feature. Notice what the words make available before the performer’s choices are evaluated. Then return to the entire passage. The literary argument grows stronger when its claims become specific enough to be checked.
+
+## Sources and review tasks
+
+[Chapter evidence ledger](../research/sources-sound.json). [Reproducible inventory](../analysis/close-reading-observations.md). Arabic is reproduced from the pinned Tanzil source with its attribution and license retained in the project. Working translations and interpretive groupings are original project proposals.
+
+Review priorities: independent checking of the Arabic and approximate pausal transliterations; comparison with other reading traditions; close review of verses 4, 7, and 10 in translation; alternative discourse partitions; and a literature review before any claim of methodological novelty. The existing audio edition narrates earlier chapters in English. Narration of these two new chapters is not yet available; it would not constitute a Qur’anic recitation or an acoustic experiment.
 
 
 ---

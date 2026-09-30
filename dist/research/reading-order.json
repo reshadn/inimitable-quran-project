@@ -1,13 +1,87 @@
 {
-  "edition": "0.2",
-  "published_date": "20 September 2026",
+  "edition": "0.3",
+  "published_date": "30 September 2026",
   "chapters": [
-    {"slug":"00-an-invitation-to-examine","title":"An invitation to examine","label":"Opening essay","file":"chapters/00-an-invitation-to-examine.md","description":"An invitation to inspect the language before deciding what its origin might be.","new":false},
-    {"slug":"03-the-challenge","title":"The Challenge","label":"Foundations · Chapter 1","file":"chapters/03-the-challenge.md","description":"What the challenge passages actually demand, and how to approach a fair comparison.","new":true},
-    {"slug":"04-the-distance-between-claims","title":"The Distance Between Claims","label":"Foundations · Chapter 2","file":"chapters/04-the-distance-between-claims.md","description":"The reasoning needed to move from literary distinctiveness to excellence, incapacity, and revelation.","new":true},
-    {"slug":"05-a-history-of-the-question","title":"A History of the Question","label":"Foundations · Chapter 3","file":"chapters/05-a-history-of-the-question.md","description":"Classical disagreements about eloquence, arrangement, and incapacity, with modern scholarly perspectives.","new":true},
-    {"slug":"01-the-head-ablaze","title":"The Head Ablaze","label":"Close reading · Chapter 4","file":"chapters/01-the-head-ablaze.md","description":"Grammar, metaphor, and prayer in Qur’an 19:4, read alongside al-Jurjānī.","new":false},
-    {"slug":"02-time-and-mutual-responsibility","title":"Time and Mutual Responsibility","label":"Close reading · Chapter 8","file":"chapters/02-time-and-mutual-responsibility.md","description":"The oath, warning, exception, and mutual counsel in the complete surah al-ʿAṣr.","new":false},
-    {"slug":"06-counting-without-overclaiming","title":"Counting Without Overclaiming","label":"Methods · Chapter 15","file":"chapters/06-counting-without-overclaiming.md","description":"What counts and statistical models can contribute, how to design fair tests, and where numerical inference stops.","new":true}
+    {
+      "slug": "00-an-invitation-to-examine",
+      "title": "An invitation to examine",
+      "label": "Opening essay",
+      "file": "chapters/00-an-invitation-to-examine.md",
+      "description": "An invitation to inspect the language before deciding what its origin might be.",
+      "new": false,
+      "audio_status": "available"
+    },
+    {
+      "slug": "03-the-challenge",
+      "title": "The Challenge",
+      "label": "Foundations · Chapter 1",
+      "file": "chapters/03-the-challenge.md",
+      "description": "What the challenge passages actually demand, and how to approach a fair comparison.",
+      "new": false,
+      "audio_status": "available"
+    },
+    {
+      "slug": "04-the-distance-between-claims",
+      "title": "The Distance Between Claims",
+      "label": "Foundations · Chapter 2",
+      "file": "chapters/04-the-distance-between-claims.md",
+      "description": "The reasoning needed to move from literary distinctiveness to excellence, incapacity, and revelation.",
+      "new": false,
+      "audio_status": "available"
+    },
+    {
+      "slug": "05-a-history-of-the-question",
+      "title": "A History of the Question",
+      "label": "Foundations · Chapter 3",
+      "file": "chapters/05-a-history-of-the-question.md",
+      "description": "Classical disagreements about eloquence, arrangement, and incapacity, with modern scholarly perspectives.",
+      "new": false,
+      "audio_status": "available"
+    },
+    {
+      "slug": "01-the-head-ablaze",
+      "title": "The Head Ablaze",
+      "label": "Close reading · Chapter 4",
+      "file": "chapters/01-the-head-ablaze.md",
+      "description": "Grammar, metaphor, and prayer in Qur’an 19:4, read alongside al-Jurjānī.",
+      "new": false,
+      "audio_status": "available"
+    },
+    {
+      "slug": "07-economy-and-implication",
+      "title": "Economy and Implication",
+      "label": "Close reading · Chapter 5",
+      "file": "chapters/07-economy-and-implication.md",
+      "description": "How context makes a brief relation or an omitted object recoverable, with readings of 2:179 and 93:3.",
+      "new": true,
+      "audio_status": "not_yet_available"
+    },
+    {
+      "slug": "08-sound-and-meaning",
+      "title": "Sound and Meaning",
+      "label": "Close reading · Chapter 6",
+      "file": "chapters/08-sound-and-meaning.md",
+      "description": "Read all of al-Ḍuḥā through its sound, grammar, and movement toward responsibility.",
+      "new": true,
+      "audio_status": "not_yet_available"
+    },
+    {
+      "slug": "02-time-and-mutual-responsibility",
+      "title": "Time and Mutual Responsibility",
+      "label": "Close reading · Chapter 8",
+      "file": "chapters/02-time-and-mutual-responsibility.md",
+      "description": "The oath, warning, exception, and mutual counsel in the complete surah al-ʿAṣr.",
+      "new": false,
+      "audio_status": "available"
+    },
+    {
+      "slug": "06-counting-without-overclaiming",
+      "title": "Counting Without Overclaiming",
+      "label": "Methods · Chapter 15",
+      "file": "chapters/06-counting-without-overclaiming.md",
+      "description": "What counts and statistical models can contribute, how to design fair tests, and where numerical inference stops.",
+      "new": false,
+      "audio_status": "available"
+    }
   ]
 }

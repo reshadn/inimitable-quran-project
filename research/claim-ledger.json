@@ -1,6 +1,6 @@
 {
-  "version": "0.1",
-  "as_of": "2026-09-16",
+  "version": "0.3",
+  "as_of": "2026-09-29",
   "note": "Initial claim ledger. Source identifiers refer to chapter records or named artifacts. Empirical proposals are not findings.",
   "claims": [
     {
@@ -291,6 +291,47 @@
         "chapters/06-counting-without-overclaiming.md"
       ],
       "limit": "The general statistical source does not itself evaluate revelation; this is the project’s application and requires philosophical review."
+    },
+    {
+      "id": "CL-027",
+      "level": "grammatical observation",
+      "status": "source-grounded draft",
+      "claim": "In 93:3 the first verb expresses a second-person object suffix while qala leaves the understood object unexpressed.",
+      "evidence": [
+        "ECO-03",
+        "SND-05"
+      ],
+      "limit": "Recoverability does not prove a unique possible form or a universal emotional effect."
+    },
+    {
+      "id": "CL-028",
+      "level": "descriptive extraction",
+      "status": "computed with manual annotations disclosed",
+      "claim": "Surah93 contains 40 written tokens under the existing rule; manually annotated terminal labels are eight ā, two r, and one th.",
+      "evidence": [
+        "SND-04"
+      ],
+      "limit": "Terminal labels require specialist review and are not a complete rhyme or all-readings classification."
+    },
+    {
+      "id": "CL-029",
+      "level": "whole-composition interpretation",
+      "status": "authorial proposal",
+      "claim": "In surah93, the change at verse9 coincides with a move toward instructions under the proposed reading, while several earlier discourse shifts share the same terminal vowel.",
+      "evidence": [
+        "chapters/08-sound-and-meaning.md"
+      ],
+      "limit": "One editorial case cannot establish a general mapping or an auditory processing advantage."
+    },
+    {
+      "id": "CL-030",
+      "level": "historical interpretation",
+      "status": "digital primary passage inspected",
+      "claim": "Al-Tabari reports restraint and preservation of non-perpetrators as explanatory approaches to life in qisas at2:179.",
+      "evidence": [
+        "ECO-02"
+      ],
+      "limit": "A commentary is not contemporary evidence of policy effects, and no legal advice follows."
     }
   ]
 }

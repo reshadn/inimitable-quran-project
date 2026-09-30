@@ -9,7 +9,7 @@ A book and open research program examining Qur’anic language, inimitability, a
 
 ## Release status
 
-This is research draft 0.2, not a completed book or established demonstration of divine origin. The initial manuscript and source checks were developed with AI assistance. Independent human scholarly review is pending. The release contains an opening essay and six chapters, approximately 14,600 words, plus a 71-record source catalog. Sixteen entries have bounded passage/documentation inspection, 29 have bibliographic or abstract confirmation, and 26 remain discovery leads. No complete work is claimed as read. Inclusion is not endorsement.
+This is research draft 0.3, not a completed book or established demonstration of divine origin. The initial manuscript and source checks were developed with AI assistance. Independent human scholarly review is pending. The release contains an opening essay and eight chapters, approximately 19,000 words, plus a 73-record source catalog. Eighteen entries have bounded passage/documentation inspection, 29 have bibliographic or abstract confirmation, and 26 remain discovery leads. The two newest chapters are text-only; seven earlier texts have synthetic narration. No complete work is claimed as read. Inclusion is not endorsement.
 
 The corpus pilot is descriptive. No reader, expert, or recitation study has been conducted. Literary distinctiveness, excellence, universal human incapacity, and revelation are separate claims. There is no numerical score of divinity.
 

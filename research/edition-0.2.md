@@ -1,5 +1,7 @@
 # Expanded research edition 0.2
 
+Historical release record. See [edition 0.3](edition-0.3.md) for the current scope.
+
 Published 20 September 2026 as a public working draft. The manuscript now contains an opening essay and six chapters, approximately 14,600 whitespace-delimited words including notes and markup. This is an editorial size, not an Arabic linguistic measurement.
 
 Four chapters are new: **The Challenge**, **The Distance Between Claims**, **A History of the Question**, and **Counting Without Overclaiming**. They develop the challenge passages, the argument's inferential steps, selected classical debates, and a practical measurement program. The two earlier close readings remain in the book. Chapter numbers follow the proposed full book map; intervening planned chapters have not been written yet.

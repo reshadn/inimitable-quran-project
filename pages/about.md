@@ -16,11 +16,11 @@ Distinctiveness does not automatically establish excellence. Excellence does not
 
 ## What is available now
 
-The expanded research edition, dated 20 September 2026, contains approximately 14,600 words across an opening essay and six chapters, with sources and working translations. Four new chapters examine the challenge passages, the distance between the central claims, selected classical theories, and responsible statistical analysis. It is a working draft, not a completed proof or finished book.
+The expanded research edition, dated 30 September 2026, contains approximately 19,000 words across an opening essay and eight chapters, with sources and working translations. Two new chapters examine economy of expression and the relationship between sound and meaning. The complete al-Ḍuḥā reading includes an openly reproducible inventory. Seven earlier texts have synthetic narration; the two new chapters are text-only. It is a working draft, not a completed proof or finished book.
 
-The source catalog contains 71 bibliography records for candidate works and resources:
+The source catalog contains 73 bibliography records for candidate works and resources:
 
-- 16 bounded passage or documentation inspections.
+- 18 bounded passage or documentation inspections.
 - 29 catalog or abstract confirmations.
 - 26 discovery leads awaiting verification.
 

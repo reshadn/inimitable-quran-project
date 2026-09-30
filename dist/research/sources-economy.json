@@ -1,0 +1,74 @@
+{
+  "chapter": "Economy and Implication",
+  "updated": "2026-09-29",
+  "scope": "Two close readings; no legal-policy recommendation or empirical efficacy claim. Overlaps with other chapter ledgers are not independent evidence.",
+  "sources": [
+    {
+      "id": "ECO-01",
+      "author": "Tanzil Project",
+      "title": "Quran text, Uthmani 1.1, pinned project corpus",
+      "url": "https://tanzil.net/download/",
+      "inspected_scope": "Exact local aya text attributes for 2:178–179 and 93:3; integrity verified against data/manifest.json.",
+      "locator": "data/raw/tanzil-uthmani-1.1.xml; 2:178–179 and 93:3",
+      "verification_status": "passage_inspected",
+      "limitations": "One pinned Hafs representation; original English renderings are project drafts.",
+      "supports": [
+        "Exact Arabic wording and contextual check"
+      ],
+      "accessed": "2026-09-29",
+      "full_work_read": false,
+      "verification_provenance": "AI-assisted source inspection; independent scholarly review pending."
+    },
+    {
+      "id": "ECO-02",
+      "author": "al-Ṭabarī",
+      "title": "Jāmiʿ al-bayān, commentary on 2:179",
+      "url": "https://quran.ksu.edu.sa/tafseer/tabary/sura2-aya179.html",
+      "inspected_scope": "Arabic opening explanation, reported restraint interpretations, alternative protection of non-perpetrators, and closing clause inspected.",
+      "locator": "Commentary on 2:179, opening through concluding explanation of لعلكم تتقون",
+      "verification_status": "passage_inspected",
+      "limitations": "Digital transcription not collated against print; reports not independently authenticated; no modern deterrence finding.",
+      "supports": [
+        "Restraint/deterrence interpretation",
+        "Alternative emphasis on preserving people other than the perpetrator"
+      ],
+      "accessed": "2026-09-29",
+      "full_work_read": false,
+      "verification_provenance": "AI-assisted source inspection; independent scholarly review pending."
+    },
+    {
+      "id": "ECO-03",
+      "author": "al-Qurṭubī",
+      "title": "al-Jāmiʿ li-aḥkām al-Qurʾān, commentary on 93:3",
+      "url": "https://quran.ksu.edu.sa/tafseer/qortobi/sura93-aya3.html",
+      "inspected_scope": "Closing lexical and grammatical discussion of وما قلى, including recovery of the omitted object and relation to the verse ending.",
+      "locator": "93:3, paragraph beginning قوله تعالى وما قلى and final explanatory sentence",
+      "verification_status": "passage_inspected",
+      "limitations": "Digital transcription only; historical reports earlier in the entry are not authenticated or used to establish biography.",
+      "supports": [
+        "Understood second-person object",
+        "Omission connected with verse ending in this commentary"
+      ],
+      "accessed": "2026-09-29",
+      "full_work_read": false,
+      "verification_provenance": "AI-assisted source inspection; independent scholarly review pending."
+    },
+    {
+      "id": "ECO-04",
+      "author": "Inimitable Qur’an Project",
+      "title": "Close-reading observations: economy and sound",
+      "url": "https://github.com/reshadn/inimitable-quran-project/blob/main/analysis/close-reading-observations.json",
+      "inspected_scope": "New extraction executed with existing hash-checked corpus loader; counts 2:178=37, 2:179=8, 93:3=5, surah93=40.",
+      "locator": "scripts/analyze_close_readings.py and analysis/close-reading-observations.json",
+      "verification_status": "passage_inspected",
+      "limitations": "Program verifies extraction, not manual phonetics or discourse labels; no acoustic or participant data.",
+      "supports": [
+        "Reproducible written-token observations",
+        "Explicit separation of computed fields and editorial annotations"
+      ],
+      "accessed": "2026-09-29",
+      "full_work_read": false,
+      "verification_provenance": "AI-assisted source inspection; independent scholarly review pending."
+    }
+  ]
+}

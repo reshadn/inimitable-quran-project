@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.3 · 30 September 2026
+
+Added Economy and Implication and Sound and Meaning, approximately 4,400 new words. The manuscript now contains an opening essay and eight chapters, approximately 19,000 words. These two additions are text-only; the seven existing narrations are retained.
+
+Added ten overlapping chapter-evidence records and two bibliography records, bringing totals to 48 evidence records and 73 bibliography records. The Stewart 2021 citation is explicitly limited to publisher-indexed passage coverage. Added a reproducible verse inventory that separates extracted text/counts from manual sound and discourse annotations. No human study, acoustic experiment, or comparative superiority is claimed.
+
 ## 0.2 · 20 September 2026
 
 Added four chapters: The Challenge, The Distance Between Claims, A History of the Question, and Counting Without Overclaiming. The full draft now has an opening essay and six chapters, approximately 14,600 words.

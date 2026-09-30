@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "as_of": "2026-09-20",
+  "as_of": "2026-09-29",
   "purpose": "Initial research bibliography, not a list of fully read or uniformly supportive sources.",
   "status_definitions": {
     "passage_inspected": "A bounded original-text passage or project documentation was inspected; see inspection and locator for coverage.",
@@ -8,11 +8,11 @@
     "discovery_lead": "Candidate work awaiting edition and source verification; not citation-ready."
   },
   "counts": {
-    "total": 71,
-    "passage_inspected": 16,
+    "total": 73,
+    "passage_inspected": 18,
     "discovery_lead": 26,
     "catalog_confirmed": 29,
-    "publisher_author_or_primary_records_inspected": 43,
+    "publisher_author_or_primary_records_inspected": 45,
     "full_works_read": 0
   },
   "sources": [
@@ -314,15 +314,15 @@
       "url": "https://quran.com/maryam/4/tafsirs/ar-tafsir-al-tabari",
       "year": null,
       "status": "passage_inspected",
-      "inspection": "Chapter researchers inspected 19:4 and 103:1,3 commentaries.",
+      "inspection": "Chapter researchers inspected 19:4 and 103:1,3 commentaries. On 29 September 2026, also inspected digital Arabic commentary on 2:179 and 93:7,10.",
       "publisher": null,
       "doi": null,
       "type": "book",
       "locator": "19:4 paragraph beginning وقد اختلف أهل العربية; 103:1 concluding judgment; 103:3 tawāṣī discussion.",
       "primary_record_inspected": true,
-      "accessed": "2026-09-16",
+      "accessed": "2026-09-29",
       "full_work_read": false,
-      "evidence_record": "sources-19-4.json#C19-04; sources-asr.json#ASR-003"
+      "evidence_record": "sources-19-4.json#C19-04; sources-asr.json#ASR-003; sources-economy.json#ECO-02; sources-sound.json#SND-02,SND-03"
     },
     {
       "id": "BIB-016",
@@ -1479,6 +1479,52 @@
       "accessed": "2026-09-20",
       "full_work_read": false,
       "evidence_record": "sources-counting.json#CNT-05"
+    },
+    {
+      "id": "BIB-072",
+      "author": "al-Qurṭubī",
+      "title": "al-Jāmiʿ li-aḥkām al-Qurʾān, commentary on 93:3",
+      "domain": "classical tafsīr",
+      "argument_role": "Understood second-person object; Omission connected with verse ending in this commentary",
+      "dependence": "Bounded chapter source record; overlaps are not independent witnesses.",
+      "limitations": "Digital transcription only; historical reports earlier in the entry are not authenticated or used to establish biography.",
+      "url": "https://quran.ksu.edu.sa/tafseer/qortobi/sura93-aya3.html",
+      "year": null,
+      "status": "passage_inspected",
+      "inspection": "Closing lexical and grammatical discussion of وما قلى, including recovery of the omitted object and relation to the verse ending.",
+      "publisher": null,
+      "doi": null,
+      "type": "book",
+      "locator": "93:3, paragraph beginning قوله تعالى وما قلى and final explanatory sentence",
+      "primary_record_inspected": true,
+      "accessed": "2026-09-29",
+      "full_work_read": false,
+      "evidence_record": "sources-economy.json#ECO-03; sources-sound.json#SND-05"
+    },
+    {
+      "id": "BIB-073",
+      "author": "Devin J. Stewart",
+      "title": "Speech Genres and Interpretation of the Qur’an",
+      "domain": "discourse and performance",
+      "argument_role": "Distinguish speech setting and participants from written record; Historical performance features not recoverable automatically from text",
+      "dependence": "Bounded chapter source record; overlaps are not independent witnesses.",
+      "limitations": "Limited indexed passage coverage, not a full-article reading; does not verify this chapter’s phonetics or proposed al-Duha interpretation.",
+      "url": "https://doi.org/10.3390/rel12070529",
+      "year": 2021,
+      "status": "passage_inspected",
+      "inspection": "Bounded publisher-indexed text listing speech-event factors and discussing inaccessible original performances was inspected through search retrieval; publisher full-page and PDF retrieval failed.",
+      "publisher": "MDPI",
+      "doi": "10.3390/rel12070529",
+      "type": "article",
+      "locator": "Religions 12(7), 529 (2021); paragraph beginning All of these elements are worth keeping in mind",
+      "primary_record_inspected": true,
+      "accessed": "2026-09-29",
+      "full_work_read": false,
+      "evidence_record": "sources-sound.json#SND-06",
+      "journal": "Religions",
+      "volume": "12",
+      "number": "7",
+      "pages": "529"
     }
   ],
   "verification_provenance": "AI-assisted scoped inspections. Edition 0.2 advances BIB-001/002 from discovery leads to inspected digital passages and adds BIB-066 through BIB-071. Every source remains limited to the stated inspection. No independent human scholarly review is claimed."
