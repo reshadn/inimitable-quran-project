@@ -1,6 +1,6 @@
 {
-  "edition": "0.3",
-  "published_date": "30 September 2026",
+  "edition": "0.4",
+  "published_date": "8 October 2026",
   "chapters": [
     {
       "slug": "00-an-invitation-to-examine",
@@ -53,7 +53,7 @@
       "label": "Close reading · Chapter 5",
       "file": "chapters/07-economy-and-implication.md",
       "description": "How context makes a brief relation or an omitted object recoverable, with readings of 2:179 and 93:3.",
-      "new": true,
+      "new": false,
       "audio_status": "not_yet_available"
     },
     {
@@ -62,6 +62,15 @@
       "label": "Close reading · Chapter 6",
       "file": "chapters/08-sound-and-meaning.md",
       "description": "Read all of al-Ḍuḥā through its sound, grammar, and movement toward responsibility.",
+      "new": false,
+      "audio_status": "not_yet_available"
+    },
+    {
+      "slug": "09-shifts-of-address",
+      "title": "Shifts of Address",
+      "label": "Close reading · Chapter 7",
+      "file": "chapters/09-shifts-of-address.md",
+      "description": "Who is addressed, who is described, and where quoted speech begins in al-Fatiha and the sea journey at 10:21–23.",
       "new": true,
       "audio_status": "not_yet_available"
     },

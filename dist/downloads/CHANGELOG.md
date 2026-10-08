@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.4 · 8 October 2026
+
+Added Shifts of Address, approximately 2,900 words, bringing the manuscript to an opening essay and nine chapters, approximately 21,900 words. The chapter reads complete al-Fātiḥa and 10:21–23, separates grammatical observation from proposed discourse effects, and distinguishes quoted speech from same-voice shifts. Three chapters now await narration; seven existing recordings remain available.
+
+Added seven overlapping chapter-evidence records and one bibliography record, bringing totals to 55 evidence records, 74 bibliography records, and 34 claim entries. Additional classical commentary inspections extend existing source records. Abdel Haleem 1992 is explicitly limited to its publisher's opening extract and metadata.
+
+Added an inspectable reference map with 18 selected anchors, manual speech-layer labels, two illustrative transitions, and two exclusion controls. The raw corpus is unchanged. No global frequency, reader effect, comparative superiority, novelty, or probability of revelation is claimed. Corrected stale current-edition pointers and singular wording in the website's edition notice.
+
 ## 0.3 · 30 September 2026
 
 Added Economy and Implication and Sound and Meaning, approximately 4,400 new words. The manuscript now contains an opening essay and eight chapters, approximately 19,000 words. These two additions are text-only; the seven existing narrations are retained.

@@ -1,0 +1,19 @@
+id,verse,lexical_token_index,exact_anchor,grammatical_component_manual,referent_manual,person_manual,speech_layer_manual,discourse_role_manual
+F-name,1:2,2,لِلَّهِ,named referent,God,3,worshipper prayer,praise
+F-title,1:4,1,مَـٰلِكِ,named referent,God,3,worshipper prayer,description
+F-you,1:5,1,إِيَّاكَ,object,God,2,worshipper prayer,direct commitment
+F-we,1:5,2,نَعْبُدُ,subject,worshippers,1,worshipper prayer,worship
+F-help,1:5,4,نَسْتَعِينُ,subject,worshippers,1,worshipper prayer,dependence
+F-guide,1:6,1,ٱهْدِنَا,implied subject of imperative,God,2,worshipper prayer,petition
+F-us,1:6,1,ٱهْدِنَا,object suffix,worshippers,1,worshipper prayer,petition
+F-favor,1:7,3,أَنْعَمْتَ,subject,God,2,worshipper prayer,continued address
+J-you,10:22,3,يُسَيِّرُكُمْ,object suffix,travelers,2,outer discourse,addressed situation
+J-when,10:22,9,كُنتُمْ,subject,travelers,2,outer discourse,addressed situation
+J-boats,10:22,12,وَجَرَيْنَ,subject,boats,3,outer discourse,sailing
+J-them,10:22,13,بِهِم,prepositional object,travelers,3,outer discourse,narrated situation
+J-rejoice,10:22,16,وَفَرِحُوا۟,subject,travelers,3,outer discourse,rejoicing
+J-rescuer,10:22,36,أَنجَيْتَنَا,subject,God,2,travelers quoted plea,rescue requested
+J-us,10:22,36,أَنجَيْتَنَا,object suffix,travelers,1,travelers quoted plea,rescue requested
+J-promise,10:22,39,لَنَكُونَنَّ,subject,travelers,1,travelers quoted plea,promise of gratitude
+J-rescued,10:23,2,أَنجَىٰهُمْ,object suffix,travelers,3,outer discourse,rescue aftermath
+J-audience,10:23,13,بَغْيُكُمْ,possessive suffix,general human audience,2,outer discourse,admonition

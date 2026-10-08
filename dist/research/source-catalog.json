@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "as_of": "2026-09-29",
+  "as_of": "2026-10-08",
   "purpose": "Initial research bibliography, not a list of fully read or uniformly supportive sources.",
   "status_definitions": {
     "passage_inspected": "A bounded original-text passage or project documentation was inspected; see inspection and locator for coverage.",
@@ -8,11 +8,11 @@
     "discovery_lead": "Candidate work awaiting edition and source verification; not citation-ready."
   },
   "counts": {
-    "total": 73,
-    "passage_inspected": 18,
+    "total": 74,
+    "passage_inspected": 19,
     "discovery_lead": 26,
     "catalog_confirmed": 29,
-    "publisher_author_or_primary_records_inspected": 45,
+    "publisher_author_or_primary_records_inspected": 46,
     "full_works_read": 0
   },
   "sources": [
@@ -287,13 +287,13 @@
       "author": "al-Zamakhsharī",
       "title": "al-Kashshāf",
       "domain": "classical tafsīr",
-      "argument_role": "Classical interpretation of truth, patience, and alternative oath referents.",
+      "argument_role": "Classical interpretation of truth, patience, and alternative oath referents. Also used for the bounded shifts-of-address discussion.",
       "dependence": "Later exegetes may reproduce these readings.",
       "limitations": "Specified digital transcription inspected by AI-assisted chapter research; no print edition or page image collated, and transmitted reports not independently authenticated.",
       "url": "https://quran-tafsir.net/zamakhshary/sura103-aya3.html",
       "year": null,
       "status": "passage_inspected",
-      "inspection": "Chapter researcher inspected online commentary for 103:1 and 103:3.",
+      "inspection": "Chapter researcher inspected online commentary for 103:1 and 103:3. Additional 8 October 2026 coverage is recorded under additional_inspections.",
       "publisher": null,
       "doi": null,
       "type": "book",
@@ -301,7 +301,25 @@
       "primary_record_inspected": true,
       "accessed": "2026-09-16",
       "full_work_read": false,
-      "evidence_record": "sources-asr.json#ASR-004"
+      "evidence_record": "sources-asr.json#ASR-004; sources-address.json#ADR-02,ADR-04",
+      "additional_inspections": [
+        {
+          "accessed": "2026-10-08",
+          "locator": "1:5, questions beginning إياك and لم عدل عن لفظ الغيبة إلى لفظ الخطاب",
+          "url": "https://quran-tafsir.net/zamakhshary/sura1-aya5.html",
+          "inspection": "Displayed commentary discussion of fronted iyyaka and the change from third-person presentation to address, including its contextual explanation and Arabic poetic examples.",
+          "limitations": "Digital transcription only; print edition and cited poetic texts not independently collated. No measured listener response follows.",
+          "evidence_record": "sources-address.json#ADR-02"
+        },
+        {
+          "accessed": "2026-10-08",
+          "locator": "10:22, paragraph beginning ما فائدة صرف الكلام عن الخطاب إلى الغيبة",
+          "url": "https://quran-tafsir.net/zamakhshary/sura10-aya22.html",
+          "inspection": "Displayed entry inspected, especially identification of boats as the sailing subject, explanation of address-to-description, and analysis of the rescue plea as represented saying.",
+          "limitations": "Digital transcription only. The disapproval explanation is an exegetical interpretation, not measured reader data.",
+          "evidence_record": "sources-address.json#ADR-04"
+        }
+      ]
     },
     {
       "id": "BIB-015",
@@ -1338,13 +1356,13 @@
       "author": "Muḥammad al-Ṭāhir Ibn ʿĀshūr",
       "title": "al-Taḥrīr wa-l-tanwīr",
       "domain": "modern Arabic tafsīr",
-      "argument_role": "Contextual prayer analysis in 19:4–6; emphasis, loss, and mutual counsel in 103:2–3.",
+      "argument_role": "Contextual prayer analysis in 19:4–6; emphasis, loss, and mutual counsel in 103:2–3. Also used for the bounded shifts-of-address discussion.",
       "dependence": "Later interpretation within an inherited tradition; not independent early reception evidence.",
       "limitations": "Selected digital passages inspected by AI-assisted chapter research; print edition not collated. Literary interpretations are not experimental findings.",
       "url": "https://quran-tafsir.net/ashour/sura103-aya3.html",
       "year": null,
       "status": "passage_inspected",
-      "inspection": "Chapter researchers inspected commentary on 19:4–6 and 103:2–3.",
+      "inspection": "Chapter researchers inspected commentary on 19:4–6 and 103:2–3. Additional 8 October 2026 coverage is recorded under additional_inspections.",
       "publisher": null,
       "doi": null,
       "type": "book",
@@ -1352,7 +1370,17 @@
       "primary_record_inspected": true,
       "accessed": "2026-09-16",
       "full_work_read": false,
-      "evidence_record": "sources-19-4.json#C19-05; sources-asr.json#ASR-006"
+      "evidence_record": "sources-19-4.json#C19-05; sources-asr.json#ASR-006; sources-address.json#ADR-05",
+      "additional_inspections": [
+        {
+          "accessed": "2026-10-08",
+          "locator": "1:5, paragraphs beginning والانتقال من أسلوب الحديث, وفي ضابط أسلوب الالتفات, ومما يجب التنبه له, and ومما يزيد الالتفات",
+          "url": "https://quran-tafsir.net/ashour/sura1-aya5.html",
+          "inspection": "Opening analysis through the definition disagreement, named-reference convention, and transition from praise to supplication inspected. Later discussions of worship and jurisprudence are outside this chapter claim.",
+          "limitations": "Selected digital paragraphs, not a full entry or full-work reading; al-Sakkaki is reported through Ibn Ashur, not independently inspected.",
+          "evidence_record": "sources-address.json#ADR-05"
+        }
+      ]
     },
     {
       "id": "BIB-066",
@@ -1483,15 +1511,15 @@
     {
       "id": "BIB-072",
       "author": "al-Qurṭubī",
-      "title": "al-Jāmiʿ li-aḥkām al-Qurʾān, commentary on 93:3",
+      "title": "al-Jāmiʿ li-aḥkām al-Qurʾān, selected commentaries",
       "domain": "classical tafsīr",
-      "argument_role": "Understood second-person object; Omission connected with verse ending in this commentary",
+      "argument_role": "Understood second-person object; Omission connected with verse ending in this commentary Also used for the bounded shifts-of-address discussion.",
       "dependence": "Bounded chapter source record; overlaps are not independent witnesses.",
       "limitations": "Digital transcription only; historical reports earlier in the entry are not authenticated or used to establish biography.",
       "url": "https://quran.ksu.edu.sa/tafseer/qortobi/sura93-aya3.html",
       "year": null,
       "status": "passage_inspected",
-      "inspection": "Closing lexical and grammatical discussion of وما قلى, including recovery of the omitted object and relation to the verse ending.",
+      "inspection": "Closing lexical and grammatical discussion of وما قلى, including recovery of the omitted object and relation to the verse ending. Additional 8 October 2026 coverage is recorded under additional_inspections.",
       "publisher": null,
       "doi": null,
       "type": "book",
@@ -1499,7 +1527,17 @@
       "primary_record_inspected": true,
       "accessed": "2026-09-29",
       "full_work_read": false,
-      "evidence_record": "sources-economy.json#ECO-03; sources-sound.json#SND-05"
+      "evidence_record": "sources-economy.json#ECO-03; sources-sound.json#SND-05; sources-address.json#ADR-03",
+      "additional_inspections": [
+        {
+          "accessed": "2026-10-08",
+          "locator": "10:22, paragraph beginning وقوله وجرين بهم",
+          "url": "https://quran.ksu.edu.sa/tafseer/qortobi/sura10-aya22.html",
+          "inspection": "Complete short displayed entry inspected; chapter uses the paragraph identifying وجرين بهم as address-to-third-person presentation and noting occurrence in Arabic poetry.",
+          "limitations": "Digital transcription only. Variant readings and reports are recorded by the source but not comprehensively evaluated here.",
+          "evidence_record": "sources-address.json#ADR-03"
+        }
+      ]
     },
     {
       "id": "BIB-073",
@@ -1525,7 +1563,32 @@
       "volume": "12",
       "number": "7",
       "pages": "529"
+    },
+    {
+      "id": "BIB-074",
+      "author": "M. A. S. Abdel Haleem",
+      "title": "Grammatical Shift for Rhetorical Purposes: Iltifāt and Related Features in the Qur’ān",
+      "domain": "modern Arabic rhetoric",
+      "argument_role": "Opening methodological case for examining positions and purposes of grammatical shifts.",
+      "dependence": "Secondary report of Nöldeke and classical critics, not independent inspection of their works.",
+      "limitations": "Only the opening extract, not the article body. Nöldeke remarks are reported through Abdel Haleem; original German passage was not independently read.",
+      "url": "https://doi.org/10.1017/S0041977X00003621",
+      "year": 1992,
+      "status": "passage_inspected",
+      "inspection": "Publisher opening extract and bibliographic record inspected. Institutional repository metadata confirmed; full PDF access returned 403. No full-article classification or total is adopted.",
+      "publisher": "School of Oriental and African Studies, University of London",
+      "doi": "10.1017/S0041977X00003621",
+      "type": "article",
+      "locator": "Bulletin of the School of Oriental and African Studies 55(3), October 1992, pp.407–432; opening extract",
+      "primary_record_inspected": true,
+      "accessed": "2026-10-08",
+      "full_work_read": false,
+      "evidence_record": "sources-address.json#ADR-06",
+      "journal": "Bulletin of the School of Oriental and African Studies",
+      "volume": "55",
+      "number": "3",
+      "pages": "407–432"
     }
   ],
-  "verification_provenance": "AI-assisted scoped inspections. Edition 0.2 advances BIB-001/002 from discovery leads to inspected digital passages and adds BIB-066 through BIB-071. Every source remains limited to the stated inspection. No independent human scholarly review is claimed."
+  "verification_provenance": "AI-assisted scoped inspections. All coverage is bounded by each record; additional inspections preserve earlier provenance. No independent human scholarly review or full-work reading is claimed."
 }

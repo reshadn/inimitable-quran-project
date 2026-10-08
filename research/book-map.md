@@ -15,7 +15,7 @@ Target: 90,000–120,000 words. General readers, including skeptical readers, wi
 | 4. The head ablaze | How does grammar change an image? | 19:2–6; al-Jurjānī and competing analyses | Sample drafted |
 | 5. Economy and implication | What can fewer words communicate? | 2:179 and 93:3, contextual reconstruction, and explicit inference limits | Drafted in edition 0.3; independent review pending |
 | 6. Sound and meaning | What belongs to the text and what to performance? | Complete surah 93, terminal-sound inventory, and proposed listening study | Drafted in edition 0.3; annotations await review and study not conducted |
-| 7. Shifts of address | When does perspective advance discourse? | Whole-context linguistic analysis | Planned |
+| 7. Shifts of address | When does perspective advance discourse? | Complete surah 1, 10:21–23, explicit reference map and proposed reader study | Drafted in edition 0.4; independent annotation review pending and study not conducted |
 | 8. Time and mutual responsibility | How does a short surah make an argument? | Full surah 103 and classical readings | Sample drafted |
 | 9. Other short compositions | Do proposed effects recur? | Surahs 1, 93, 108, 112, 114 | Planned |
 | 10. Prayer and dialogue | What does context add to a phrase? | Complete surah 19 | Planned |

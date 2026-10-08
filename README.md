@@ -9,7 +9,7 @@ A book and open research program examining Qur’anic language, inimitability, a
 
 ## Release status
 
-This is research draft 0.3, not a completed book or established demonstration of divine origin. The initial manuscript and source checks were developed with AI assistance. Independent human scholarly review is pending. The release contains an opening essay and eight chapters, approximately 19,000 words, plus a 73-record source catalog. Eighteen entries have bounded passage/documentation inspection, 29 have bibliographic or abstract confirmation, and 26 remain discovery leads. The two newest chapters are text-only; seven earlier texts have synthetic narration. No complete work is claimed as read. Inclusion is not endorsement.
+This is research draft 0.4, not a completed book or established demonstration of divine origin. The manuscript and source checks were developed with AI assistance. Independent human scholarly review is pending. The edition contains an opening essay and nine chapters, approximately 21,900 words, plus a 74-record source catalog. Nineteen entries have bounded passage/documentation inspection, 29 have bibliographic or abstract confirmation, and 26 remain discovery leads. Three chapters are text-only; seven earlier texts have synthetic narration. The chapter ledgers contain 55 overlapping evidence records and 34 claim entries. No complete work is claimed as read. Inclusion is not endorsement.
 
 The corpus pilot is descriptive. No reader, expert, or recitation study has been conducted. Literary distinctiveness, excellence, universal human incapacity, and revelation are separate claims. There is no numerical score of divinity.
 
@@ -19,7 +19,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). Arabic specialists, historians, literary
 
 ## Repository map
 
-- `chapters/`: manuscript source in Markdown; `research/reading-order.json` defines the published reading order.
+- `chapters/`: manuscript source in Markdown; `research/reading-order.json` defines the reading order.
 - `research/`: source ledger, bibliography, claims, book plan, and proposed protocols.
 - `data/`: unchanged source corpus and hash manifest.
 - `analysis/`: reproducible descriptive pilot outputs.
@@ -36,6 +36,8 @@ Create a Python virtual environment and install `requirements.txt`. The pinned v
 python3 -m venv .venv
 .venv/bin/pip install -r requirements.txt
 .venv/bin/python scripts/analyze_corpus.py
+.venv/bin/python scripts/analyze_close_readings.py
+.venv/bin/python scripts/analyze_address.py
 .venv/bin/python -m unittest discover -s tests -v
 .venv/bin/python scripts/build_website.py
 .venv/bin/python -m http.server 8747 --directory dist

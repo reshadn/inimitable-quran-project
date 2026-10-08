@@ -1,6 +1,6 @@
-## Current public edition
+## Current manuscript edition
 
-See [edition 0.2](edition-0.2.md) for the current manuscript, source counts, and limitations. The notes below preserve the first research package as a historical record. They are not the current publication inventory.
+See [edition 0.4](edition-0.4.md) for the current manuscript, source counts, and limitations. The notes below preserve the first research package as a historical record. They are not the current publication inventory.
 
 # Status and next work
 

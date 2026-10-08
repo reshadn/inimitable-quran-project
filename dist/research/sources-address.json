@@ -1,0 +1,128 @@
+{
+  "chapter": "Shifts of Address",
+  "updated": "2026-10-08",
+  "scope": "Complete al-Fatiha and local sequence 10:21–23; selected reference annotations and proposed reader study. No independent human review or participant results.",
+  "sources": [
+    {
+      "id": "ADR-01",
+      "author": "Tanzil Project",
+      "title": "Quran text, Uthmani 1.1, pinned project corpus",
+      "url": "https://tanzil.net/download/",
+      "inspected_scope": "Complete 1:1–7 and 10:21–23 extracted from the pinned XML; chapter quotations checked against those exact verse texts.",
+      "locator": "data/raw/tanzil-uthmani-1.1.xml; 1:1–7 and 10:21–23",
+      "verification_status": "passage_inspected",
+      "limitations": "One pinned Hafs representation and verse numbering; working English translations are project drafts.",
+      "supports": [
+        "Exact wording and full local context"
+      ],
+      "accessed": "2026-10-08",
+      "full_work_read": false,
+      "verification_provenance": "AI-assisted scoped source inspection; independent human scholarly review pending."
+    },
+    {
+      "id": "ADR-02",
+      "author": "al-Zamakhsharī",
+      "title": "al-Kashshāf, commentary on 1:5",
+      "url": "https://quran-tafsir.net/zamakhshary/sura1-aya5.html",
+      "inspected_scope": "Displayed commentary discussion of fronted iyyaka and the change from third-person presentation to address, including its contextual explanation and Arabic poetic examples.",
+      "locator": "1:5, questions beginning إياك and لم عدل عن لفظ الغيبة إلى لفظ الخطاب",
+      "verification_status": "passage_inspected",
+      "limitations": "Digital transcription only; print edition and cited poetic texts not independently collated. No measured listener response follows.",
+      "supports": [
+        "Object fronting interpreted as exclusivity",
+        "Praise preparing direct worship and address",
+        "Rhetorical turning also discussed in Arabic poetry"
+      ],
+      "accessed": "2026-10-08",
+      "full_work_read": false,
+      "verification_provenance": "AI-assisted scoped source inspection; independent human scholarly review pending."
+    },
+    {
+      "id": "ADR-03",
+      "author": "al-Qurṭubī",
+      "title": "al-Jāmiʿ li-aḥkām al-Qurʾān, commentary on 10:22",
+      "url": "https://quran.ksu.edu.sa/tafseer/qortobi/sura10-aya22.html",
+      "inspected_scope": "Complete short displayed entry inspected; chapter uses the paragraph identifying وجرين بهم as address-to-third-person presentation and noting occurrence in Arabic poetry.",
+      "locator": "10:22, paragraph beginning وقوله وجرين بهم",
+      "verification_status": "passage_inspected",
+      "limitations": "Digital transcription only. Variant readings and reports are recorded by the source but not comprehensively evaluated here.",
+      "supports": [
+        "Address-to-description classification",
+        "The device is shared with human Arabic poetry"
+      ],
+      "accessed": "2026-10-08",
+      "full_work_read": false,
+      "verification_provenance": "AI-assisted scoped source inspection; independent human scholarly review pending."
+    },
+    {
+      "id": "ADR-04",
+      "author": "al-Zamakhsharī",
+      "title": "al-Kashshāf, commentary on 10:22",
+      "url": "https://quran-tafsir.net/zamakhshary/sura10-aya22.html",
+      "inspected_scope": "Displayed entry inspected, especially identification of boats as the sailing subject, explanation of address-to-description, and analysis of the rescue plea as represented saying.",
+      "locator": "10:22, paragraph beginning ما فائدة صرف الكلام عن الخطاب إلى الغيبة",
+      "verification_status": "passage_inspected",
+      "limitations": "Digital transcription only. The disapproval explanation is an exegetical interpretation, not measured reader data.",
+      "supports": [
+        "Boats distinguished from passengers",
+        "Condition presented to others for surprise and disapproval",
+        "Quoted plea differentiated from outer discourse"
+      ],
+      "accessed": "2026-10-08",
+      "full_work_read": false,
+      "verification_provenance": "AI-assisted scoped source inspection; independent human scholarly review pending."
+    },
+    {
+      "id": "ADR-05",
+      "author": "Muḥammad al-Ṭāhir Ibn ʿĀshūr",
+      "title": "al-Taḥrīr wa-l-tanwīr, commentary on 1:5",
+      "url": "https://quran-tafsir.net/ashour/sura1-aya5.html",
+      "inspected_scope": "Opening analysis through the definition disagreement, named-reference convention, and transition from praise to supplication inspected. Later discussions of worship and jurisprudence are outside this chapter claim.",
+      "locator": "1:5, paragraphs beginning والانتقال من أسلوب الحديث, وفي ضابط أسلوب الالتفات, ومما يجب التنبه له, and ومما يزيد الالتفات",
+      "verification_status": "passage_inspected",
+      "limitations": "Selected digital paragraphs, not a full entry or full-work reading; al-Sakkaki is reported through Ibn Ashur, not independently inspected.",
+      "supports": [
+        "Definitions differ between actual transition and departure from expected presentation",
+        "Named referents classified with third-person presentation",
+        "Local transition from praise toward supplication"
+      ],
+      "accessed": "2026-10-08",
+      "full_work_read": false,
+      "verification_provenance": "AI-assisted scoped source inspection; independent human scholarly review pending."
+    },
+    {
+      "id": "ADR-06",
+      "author": "M. A. S. Abdel Haleem",
+      "title": "Grammatical Shift for Rhetorical Purposes: Iltifāt and Related Features in the Qur’ān",
+      "url": "https://doi.org/10.1017/S0041977X00003621",
+      "inspected_scope": "Publisher opening extract and bibliographic record inspected. Institutional repository metadata confirmed; full PDF access returned 403. No full-article classification or total is adopted.",
+      "locator": "Bulletin of the School of Oriental and African Studies 55(3), October 1992, pp.407–432; opening extract",
+      "verification_status": "passage_inspected",
+      "limitations": "Only the opening extract, not the article body. Nöldeke remarks are reported through Abdel Haleem; original German passage was not independently read.",
+      "supports": [
+        "Methodological emphasis on the exact position and proposed purpose of shifts",
+        "Modern disagreement over literary evaluation"
+      ],
+      "accessed": "2026-10-08",
+      "full_work_read": false,
+      "verification_provenance": "AI-assisted scoped source inspection; independent human scholarly review pending."
+    },
+    {
+      "id": "ADR-07",
+      "author": "Inimitable Qur’an Project",
+      "title": "Selected address and speech-layer annotation inventory",
+      "url": "https://github.com/reshadn/inimitable-quran-project/blob/main/analysis/address-map.json",
+      "inspected_scope": "Hash-verified corpus extraction of 18 selected mention anchors; program evaluates two illustrative transition pairs and two exclusion controls under manual labels.",
+      "locator": "scripts/analyze_address.py; analysis/address-map.json and address-map.md",
+      "verification_status": "passage_inspected",
+      "limitations": "Self-authored artifact, not independent evidence. Labels are editorial proposals, pairs are selected, and no participant or global frequency study has been conducted.",
+      "supports": [
+        "Reference and speech-layer labels made inspectable",
+        "Formal rule kept separate from literary evaluation"
+      ],
+      "accessed": "2026-10-08",
+      "full_work_read": false,
+      "verification_provenance": "AI-assisted scoped source inspection; independent human scholarly review pending."
+    }
+  ]
+}

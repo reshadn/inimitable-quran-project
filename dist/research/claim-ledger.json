@@ -1,6 +1,6 @@
 {
-  "version": "0.3",
-  "as_of": "2026-09-29",
+  "version": "0.4",
+  "as_of": "2026-10-08",
   "note": "Initial claim ledger. Source identifiers refer to chapter records or named artifacts. Empirical proposals are not findings.",
   "claims": [
     {
@@ -332,6 +332,51 @@
         "ECO-02"
       ],
       "limit": "A commentary is not contemporary evidence of policy effects, and no legal advice follows."
+    },
+    {
+      "id": "CL-031",
+      "level": "textual observation",
+      "status": "corpus anchors checked; manual reference assignments",
+      "claim": "Al-Fatiha presents God through named descriptions before second-person address at1:5; 10:22 presents the same travelers in second and then third person.",
+      "evidence": [
+        "ADR-01",
+        "ADR-02",
+        "ADR-03",
+        "ADR-07"
+      ],
+      "limit": "Reference and grammatical-component labels await independent Arabic review; these selected examples do not establish frequency or uniqueness."
+    },
+    {
+      "id": "CL-032",
+      "level": "methodological distinction",
+      "status": "declared editorial rule",
+      "claim": "The travelers rescue plea in10:22 is a different represented speech layer; general address at10:23 is not automatically numerically identical to the narrated travelers.",
+      "evidence": [
+        "ADR-04",
+        "ADR-07"
+      ],
+      "limit": "The scheme is operational and incomplete, not an adjudication of every classical iltifat category."
+    },
+    {
+      "id": "CL-033",
+      "level": "historical interpretation",
+      "status": "digital primary passage inspected",
+      "claim": "Ibn Ashur reports a definition disagreement between the majority and al-Sakkaki, and counts named references with third-person presentation.",
+      "evidence": [
+        "ADR-05"
+      ],
+      "limit": "Al-Sakkaki original has not been independently inspected; no full history or critical edition verification follows."
+    },
+    {
+      "id": "CL-034",
+      "level": "empirical proposal",
+      "status": "not conducted",
+      "claim": "A prospective study would distinguish reference comprehension, coherence judgments, and literary preference, with independent annotation, recognition checks, and reader/passage dependence.",
+      "evidence": [
+        "chapters/09-shifts-of-address.md",
+        "analysis/address-map.md"
+      ],
+      "limit": "No reader effects, annotation reliability, comparative superiority, or probability of revelation has been measured."
     }
   ]
 }
